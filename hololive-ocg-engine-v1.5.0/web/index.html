@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+  <title>Hololive Original Card Game - Endless Nights</title>
+  <link rel="stylesheet" href="/styles.css?v=1.5.0">
+</head>
+<body>
+  <main id="screen-wrap">
+    <section id="game" aria-label="Hololive OCG battle game">
+      <div id="boot" class="full-screen console-title-screen">
+        <div class="console-title-logo">
+          <img class="official-title-logo" src="/assets/ui/hololive-ocg-logo.webp" alt="Hololive Official Card Game">
+          <h1>Endless Nights</h1>
+        </div>
+        <div id="boot-menu" class="boot-menu">
+          <button id="story-button" class="console-menu-button" disabled>STORY MODE <small>COMING SOON</small></button>
+          <button id="vs-ai-button" class="console-menu-button selected">VS. AI</button>
+          <button id="options-button" class="console-menu-button">OPTIONS</button>
+          <button id="exit-button" class="console-menu-button">EXIT GAME</button>
+        </div>
+        <small class="build-label">BUILD v1.5.0</small>
+      </div>
+
+      <div id="deck-select" class="full-screen console-subscreen hidden">
+        <div class="console-screen-heading"><span>VERSUS MODE</span><h2>CHOOSE YOUR DECK</h2></div>
+        <div id="deck-options" class="deck-options"></div>
+        <button id="deck-back" class="console-back-button">◀ BACK</button>
+        <div class="console-help">↑ ↓ SELECT · ENTER/CLICK CONFIRM · ESC BACK</div>
+      </div>
+
+      <div id="options-screen" class="full-screen console-subscreen hidden">
+        <div class="console-screen-heading"><span>SYSTEM</span><h2>OPTIONS</h2></div>
+        <div id="options-menu" class="options-menu">
+          <div id="options-theme-row" class="option-row selected" data-option="theme"><span>COLOR SCHEME</span><span class="option-control"><button data-adjust="-1">◀</button><strong id="theme-value">CLASSIC WHITE</strong><button data-adjust="1">▶</button></span></div>
+          <div class="option-section-label">AUDIO</div>
+          <div id="options-bgm-row" class="option-row" data-option="bgm"><span>BGM VOLUME</span><span class="option-control"><button data-adjust="-1">◀</button><strong id="bgm-value">30%</strong><button data-adjust="1">▶</button></span></div>
+          <div id="options-sfx-row" class="option-row" data-option="sfx"><span>SFX VOLUME</span><span class="option-control"><button data-adjust="-1">◀</button><strong id="sfx-value">100%</strong><button data-adjust="1">▶</button></span></div>
+          <button id="options-back" class="option-row option-back" data-option="back"><span>BACK</span></button>
+        </div>
+        <div class="console-help">↑ ↓ SELECT · ← → ADJUST · ENTER/CLICK CONFIRM · ESC BACK</div>
+      </div>
+
+      <div id="oshi-select" class="full-screen hidden">
+        <div class="dialog large-dialog">
+          <h2>CHOOSE YOUR OSHI</h2>
+          <p>The AI will use the other Oshi.</p>
+          <div id="oshi-options" class="oshi-options"></div>
+          <button id="oshi-back" class="dialog-back-button oshi-back-button">◀ BACK</button>
+          <div class="help-line">← → SELECT · ENTER/CLICK CONFIRM</div>
+        </div>
+      </div>
+
+      <div id="flow-screen" class="full-screen flow-screen hidden">
+        <div class="dialog flow-dialog">
+          <div class="dialog-title-row">
+            <h2 id="flow-title">MATCH SETUP</h2>
+            <span id="flow-step"></span>
+          </div>
+          <p id="flow-message" class="flow-message"></p>
+          <div id="flow-body" class="flow-body"></div>
+          <div id="flow-actions" class="flow-actions"></div>
+          <div id="flow-help" class="help-line">SELECT · ENTER CONFIRM</div>
+        </div>
+      </div>
+
+      <div id="battle" class="hidden">
+        <header id="battle-hud">
+          <span id="turn-label">TURN 1</span>
+          <span id="phase-label">CHEER</span>
+          <span id="active-label">YOUR TURN</span>
+          <button id="music-toggle" class="music-toggle" title="Toggle music">♫</button>
+        </header>
+
+        <section id="opponent-side" class="side opponent-side">
+          <div id="opponent-summary" class="side-summary"></div>
+          <div id="opponent-field" class="field"></div>
+          <div id="opponent-backstage-peek" class="backstage-peek-row" aria-label="Opponent Backstage"></div>
+        </section>
+
+        <section id="event-strip">
+          <span class="prompt-arrow">▶</span>
+          <span id="event-message">Choose a command.</span>
+        </section>
+
+        <section id="player-side" class="side player-side">
+          <div id="player-summary" class="side-summary"></div>
+          <div id="player-field" class="field"></div>
+          <div id="player-backstage-peek" class="backstage-peek-row" aria-label="Player Backstage"></div>
+        </section>
+
+        <nav id="command-menu" aria-label="Battle commands"></nav>
+      </div>
+
+      <div id="action-playback" class="full-screen playback-layer hidden" aria-live="polite">
+        <div class="playback-stage">
+          <div id="playback-visual" class="playback-visual"></div>
+        </div>
+        <div class="dialog playback-dialog">
+          <div id="playback-speaker" class="playback-speaker">BATTLE</div>
+          <div class="playback-copy"><span class="prompt-arrow">▶</span><span id="playback-text"></span></div>
+          <div id="playback-help" class="playback-help">ANIMATION PLAYING…</div>
+        </div>
+      </div>
+
+      <div id="menu-dialog" class="full-screen shade hidden">
+        <div class="dialog menu-dialog-box">
+          <div class="dialog-title-row">
+            <h2 id="dialog-title">HAND</h2>
+            <div class="dialog-heading-tools"><button id="dialog-sort" class="dialog-sort-button hidden">SORT HAND</button><button id="dialog-back" class="dialog-back-button">◀ BACK</button><div id="dialog-zone-toggle" class="dialog-zone-toggle hidden"></div><span id="dialog-count"></span></div>
+          </div>
+          <div class="dialog-columns">
+            <div id="dialog-list" class="dialog-list"></div>
+            <aside id="card-detail" class="card-detail"></aside>
+          </div>
+          <div id="dialog-help" class="help-line">↑ ↓ SELECT · ENTER ACTION · ESC BACK</div>
+        </div>
+      </div>
+
+      <div id="inspect-dialog" class="full-screen shade hidden">
+        <div class="inspect-card-box">
+          <img id="inspect-image" src="" alt="">
+          <div id="inspect-name" class="inspect-name"></div>
+          <div class="help-line">ENTER/CLICK/ESC: RETURN</div>
+        </div>
+      </div>
+
+      <div id="game-over" class="full-screen shade hidden">
+        <div class="dialog result-dialog">
+          <h2 id="result-title">YOU WIN!</h2>
+          <p id="result-reason"></p>
+          <button id="rematch-button" class="menu-button selected">NEW MATCH</button>
+        </div>
+      </div>
+
+      <div id="forfeit-dialog" class="full-screen shade hidden">
+        <div class="dialog confirm-dialog">
+          <h2>FORFEIT MATCH?</h2>
+          <p>Your current battle will end and you will return to the title screen.</p>
+          <div class="confirm-actions">
+            <button id="forfeit-no" class="menu-button selected">NO — CONTINUE</button>
+            <button id="forfeit-yes" class="menu-button">YES — FORFEIT</button>
+          </div>
+          <div class="help-line">← → SELECT · ENTER CONFIRM · ESC CANCEL</div>
+        </div>
+      </div>
+
+      <div id="step-dialog" class="full-screen shade hidden">
+        <div class="dialog confirm-dialog step-confirm-dialog">
+          <h2>ADVANCE TO THE NEXT STEP?</h2>
+          <p id="step-confirm-message">Move to the next step?</p>
+          <div class="confirm-actions">
+            <button id="step-no" class="menu-button selected">NO — GO BACK</button>
+            <button id="step-yes" class="menu-button">YES — ADVANCE</button>
+          </div>
+          <div class="help-line">← → SELECT · ENTER CONFIRM · ESC CANCEL</div>
+        </div>
+      </div>
+
+      <div id="exited-screen" class="full-screen exit-screen hidden">
+        <div class="dialog exit-dialog">
+          <h2>GAME CLOSED</h2>
+          <p>The local game process has stopped. You may close this browser tab.</p>
+        </div>
+      </div>
+
+      <div id="toast" class="toast hidden"></div>
+      <audio id="title-music" src="/assets/audio/Non_Fiction_8bit.mp3" loop preload="auto"></audio>
+      <audio id="battle-music" src="/assets/audio/Stellar_Stellar_Chiptune.mp3" loop preload="auto"></audio>
+    </section>
+  </main>
+  <script src="/app.js?v=1.5.0" defer></script>
+</body>
+</html>
