@@ -1,0 +1,5528 @@
+{
+  "state": {
+    "schemaVersion": 1,
+    "seed": 20261002,
+    "rngState": 2738419169,
+    "status": "WIN",
+    "winner": "P2",
+    "lossReasons": {
+      "P1": [
+        "could not draw during the Draw phase"
+      ]
+    },
+    "startingPlayer": "P2",
+    "activePlayer": "P1",
+    "turnNumber": 28,
+    "phase": "GAME_OVER",
+    "players": {
+      "P1": {
+        "id": "P1",
+        "oshiCardId": "hSD01-002",
+        "deck": [],
+        "cheerDeck": [],
+        "hand": [
+          {
+            "uid": "P1-D-17",
+            "cardId": "hBP01-044"
+          },
+          {
+            "uid": "P1-D-2",
+            "cardId": "hBP01-021"
+          },
+          {
+            "uid": "P1-D-14",
+            "cardId": "hSD01-007"
+          },
+          {
+            "uid": "P1-D-1",
+            "cardId": "hBP01-021"
+          },
+          {
+            "uid": "P1-D-33",
+            "cardId": "hSD01-015"
+          },
+          {
+            "uid": "P1-D-19",
+            "cardId": "hSD01-009"
+          }
+        ],
+        "archive": [
+          {
+            "uid": "P1-D-35",
+            "cardId": "hSD01-016"
+          },
+          {
+            "uid": "P1-D-37",
+            "cardId": "hSD01-016"
+          },
+          {
+            "uid": "P1-D-49",
+            "cardId": "hBP01-104"
+          },
+          {
+            "uid": "P1-D-42",
+            "cardId": "hSD01-018"
+          },
+          {
+            "uid": "P1-D-13",
+            "cardId": "hSD01-007"
+          },
+          {
+            "uid": "P1-D-45",
+            "cardId": "hSD01-020"
+          },
+          {
+            "uid": "P1-D-47",
+            "cardId": "hSD01-021"
+          },
+          {
+            "uid": "P1-D-46",
+            "cardId": "hSD01-020"
+          },
+          {
+            "uid": "P1-D-34",
+            "cardId": "hSD01-015"
+          },
+          {
+            "uid": "P1-D-40",
+            "cardId": "hSD01-017"
+          },
+          {
+            "uid": "P1-D-44",
+            "cardId": "hSD01-019"
+          },
+          {
+            "uid": "P1-C-69",
+            "cardId": "hY02-001"
+          },
+          {
+            "uid": "P1-D-20",
+            "cardId": "hSD01-009"
+          },
+          {
+            "uid": "P1-D-41",
+            "cardId": "hSD01-018"
+          },
+          {
+            "uid": "P1-D-5",
+            "cardId": "hSD01-004"
+          },
+          {
+            "uid": "P1-D-48",
+            "cardId": "hSD01-021"
+          },
+          {
+            "uid": "P1-C-51",
+            "cardId": "hY01-001"
+          },
+          {
+            "uid": "P1-C-59",
+            "cardId": "hY01-001"
+          },
+          {
+            "uid": "P1-C-67",
+            "cardId": "hY02-001"
+          },
+          {
+            "uid": "P1-D-27",
+            "cardId": "hSD01-012"
+          },
+          {
+            "uid": "P1-C-70",
+            "cardId": "hY02-001"
+          },
+          {
+            "uid": "P1-C-61",
+            "cardId": "hY02-001"
+          },
+          {
+            "uid": "P1-C-62",
+            "cardId": "hY02-001"
+          },
+          {
+            "uid": "P1-C-57",
+            "cardId": "hY01-001"
+          },
+          {
+            "uid": "P1-C-64",
+            "cardId": "hY02-001"
+          },
+          {
+            "uid": "P1-D-38",
+            "cardId": "hSD01-017"
+          },
+          {
+            "uid": "P1-D-7",
+            "cardId": "hSD01-004"
+          },
+          {
+            "uid": "P1-D-3",
+            "cardId": "hBP01-021"
+          },
+          {
+            "uid": "P1-D-22",
+            "cardId": "hSD01-010"
+          },
+          {
+            "uid": "P1-D-43",
+            "cardId": "hSD01-019"
+          },
+          {
+            "uid": "P1-C-58",
+            "cardId": "hY01-001"
+          },
+          {
+            "uid": "P1-C-60",
+            "cardId": "hY01-001"
+          },
+          {
+            "uid": "P1-D-36",
+            "cardId": "hSD01-016"
+          },
+          {
+            "uid": "P1-C-52",
+            "cardId": "hY01-001"
+          },
+          {
+            "uid": "P1-C-65",
+            "cardId": "hY02-001"
+          },
+          {
+            "uid": "P1-C-55",
+            "cardId": "hY01-001"
+          },
+          {
+            "uid": "P1-D-39",
+            "cardId": "hSD01-017"
+          },
+          {
+            "uid": "P1-D-16",
+            "cardId": "hBP01-044"
+          },
+          {
+            "uid": "P1-D-15",
+            "cardId": "hBP01-044"
+          },
+          {
+            "uid": "P1-D-50",
+            "cardId": "hBP01-104"
+          },
+          {
+            "uid": "P1-C-68",
+            "cardId": "hY02-001"
+          }
+        ],
+        "holoPower": [
+          {
+            "uid": "P1-D-28",
+            "cardId": "hSD01-012"
+          }
+        ],
+        "life": [
+          {
+            "uid": "P1-C-56",
+            "cardId": "hY01-001"
+          },
+          {
+            "uid": "P1-C-53",
+            "cardId": "hY01-001"
+          },
+          {
+            "uid": "P1-C-66",
+            "cardId": "hY02-001"
+          }
+        ],
+        "stage": {
+          "center": {
+            "stageId": "H-10",
+            "stack": [
+              {
+                "uid": "P1-D-4",
+                "cardId": "hBP01-021"
+              },
+              {
+                "uid": "P1-D-12",
+                "cardId": "hSD01-006"
+              },
+              {
+                "uid": "P1-D-9",
+                "cardId": "hSD01-005"
+              }
+            ],
+            "cheers": [
+              {
+                "uid": "P1-C-63",
+                "cardId": "hY02-001"
+              }
+            ],
+            "supports": [],
+            "damage": 20,
+            "resting": false,
+            "enteredStageTurn": 4,
+            "lastBloomTurn": 8,
+            "lastArtTurn": 22
+          },
+          "collab": null,
+          "back": [
+            {
+              "stageId": "H-14",
+              "stack": [
+                {
+                  "uid": "P1-D-31",
+                  "cardId": "hSD01-014"
+                }
+              ],
+              "cheers": [],
+              "supports": [],
+              "damage": 0,
+              "resting": false,
+              "enteredStageTurn": 12
+            },
+            {
+              "stageId": "H-17",
+              "stack": [
+                {
+                  "uid": "P1-D-32",
+                  "cardId": "hSD01-014"
+                }
+              ],
+              "cheers": [
+                {
+                  "uid": "P1-C-54",
+                  "cardId": "hY01-001"
+                }
+              ],
+              "supports": [],
+              "damage": 0,
+              "resting": false,
+              "enteredStageTurn": 16
+            },
+            {
+              "stageId": "H-5",
+              "stack": [
+                {
+                  "uid": "P1-D-18",
+                  "cardId": "hBP01-044"
+                },
+                {
+                  "uid": "P1-D-23",
+                  "cardId": "hSD01-010"
+                },
+                {
+                  "uid": "P1-D-30",
+                  "cardId": "hSD01-013"
+                },
+                {
+                  "uid": "P1-D-25",
+                  "cardId": "hSD01-011"
+                },
+                {
+                  "uid": "P1-D-26",
+                  "cardId": "hSD01-011"
+                }
+              ],
+              "cheers": [],
+              "supports": [],
+              "damage": 80,
+              "resting": false,
+              "enteredStageTurn": 0,
+              "lastBloomTurn": 16,
+              "lastArtTurn": 20
+            },
+            {
+              "stageId": "H-6",
+              "stack": [
+                {
+                  "uid": "P1-D-6",
+                  "cardId": "hSD01-004"
+                },
+                {
+                  "uid": "P1-D-11",
+                  "cardId": "hSD01-006"
+                },
+                {
+                  "uid": "P1-D-8",
+                  "cardId": "hSD01-005"
+                },
+                {
+                  "uid": "P1-D-10",
+                  "cardId": "hSD01-005"
+                },
+                {
+                  "uid": "P1-D-29",
+                  "cardId": "hSD01-013"
+                },
+                {
+                  "uid": "P1-D-24",
+                  "cardId": "hSD01-010"
+                }
+              ],
+              "cheers": [],
+              "supports": [],
+              "damage": 0,
+              "resting": false,
+              "enteredStageTurn": 0,
+              "lastBloomTurn": 24,
+              "lastArtTurn": 18
+            },
+            {
+              "stageId": "H-13",
+              "stack": [
+                {
+                  "uid": "P1-D-21",
+                  "cardId": "hSD01-009"
+                }
+              ],
+              "cheers": [],
+              "supports": [],
+              "damage": 0,
+              "resting": false,
+              "enteredStageTurn": 8
+            }
+          ]
+        },
+        "pendingCheer": null,
+        "redrawCount": 0,
+        "turnsTaken": 13,
+        "spOshiUsed": true,
+        "turnFlags": {
+          "collabUsed": false,
+          "batonPassUsed": false,
+          "limitedUsed": false,
+          "oshiSkillUsed": false
+        }
+      },
+      "P2": {
+        "id": "P2",
+        "oshiCardId": "hSD01-001",
+        "deck": [
+          {
+            "uid": "P2-D-114",
+            "cardId": "hSD01-019"
+          },
+          {
+            "uid": "P2-D-104",
+            "cardId": "hSD01-015"
+          },
+          {
+            "uid": "P2-D-108",
+            "cardId": "hSD01-017"
+          }
+        ],
+        "cheerDeck": [],
+        "hand": [
+          {
+            "uid": "P2-D-98",
+            "cardId": "hSD01-012"
+          },
+          {
+            "uid": "P2-D-89",
+            "cardId": "hSD01-009"
+          },
+          {
+            "uid": "P2-D-74",
+            "cardId": "hBP01-021"
+          },
+          {
+            "uid": "P2-D-76",
+            "cardId": "hSD01-004"
+          },
+          {
+            "uid": "P2-D-90",
+            "cardId": "hSD01-009"
+          },
+          {
+            "uid": "P2-D-73",
+            "cardId": "hBP01-021"
+          },
+          {
+            "uid": "P2-D-83",
+            "cardId": "hSD01-007"
+          }
+        ],
+        "archive": [
+          {
+            "uid": "P2-D-113",
+            "cardId": "hSD01-019"
+          },
+          {
+            "uid": "P2-D-119",
+            "cardId": "hBP01-104"
+          },
+          {
+            "uid": "P2-D-107",
+            "cardId": "hSD01-016"
+          },
+          {
+            "uid": "P2-D-92",
+            "cardId": "hSD01-010"
+          },
+          {
+            "uid": "P2-D-120",
+            "cardId": "hBP01-104"
+          },
+          {
+            "uid": "P2-D-118",
+            "cardId": "hSD01-021"
+          },
+          {
+            "uid": "P2-D-106",
+            "cardId": "hSD01-016"
+          },
+          {
+            "uid": "P2-D-116",
+            "cardId": "hSD01-020"
+          },
+          {
+            "uid": "P2-D-105",
+            "cardId": "hSD01-016"
+          },
+          {
+            "uid": "P2-C-121",
+            "cardId": "hY01-001"
+          },
+          {
+            "uid": "P2-C-125",
+            "cardId": "hY01-001"
+          },
+          {
+            "uid": "P2-D-115",
+            "cardId": "hSD01-020"
+          },
+          {
+            "uid": "P2-C-135",
+            "cardId": "hY02-001"
+          },
+          {
+            "uid": "P2-C-140",
+            "cardId": "hY02-001"
+          },
+          {
+            "uid": "P2-D-86",
+            "cardId": "hBP01-044"
+          },
+          {
+            "uid": "P2-C-128",
+            "cardId": "hY01-001"
+          },
+          {
+            "uid": "P2-C-122",
+            "cardId": "hY01-001"
+          },
+          {
+            "uid": "P2-D-103",
+            "cardId": "hSD01-015"
+          },
+          {
+            "uid": "P2-D-93",
+            "cardId": "hSD01-010"
+          },
+          {
+            "uid": "P2-C-132",
+            "cardId": "hY02-001"
+          },
+          {
+            "uid": "P2-C-136",
+            "cardId": "hY02-001"
+          },
+          {
+            "uid": "P2-D-77",
+            "cardId": "hSD01-004"
+          },
+          {
+            "uid": "P2-C-138",
+            "cardId": "hY02-001"
+          },
+          {
+            "uid": "P2-D-80",
+            "cardId": "hSD01-005"
+          },
+          {
+            "uid": "P2-C-124",
+            "cardId": "hY01-001"
+          },
+          {
+            "uid": "P2-C-139",
+            "cardId": "hY02-001"
+          },
+          {
+            "uid": "P2-D-82",
+            "cardId": "hSD01-006"
+          },
+          {
+            "uid": "P2-D-85",
+            "cardId": "hBP01-044"
+          },
+          {
+            "uid": "P2-D-94",
+            "cardId": "hSD01-010"
+          },
+          {
+            "uid": "P2-D-111",
+            "cardId": "hSD01-018"
+          },
+          {
+            "uid": "P2-D-110",
+            "cardId": "hSD01-017"
+          },
+          {
+            "uid": "P2-D-109",
+            "cardId": "hSD01-017"
+          },
+          {
+            "uid": "P2-D-117",
+            "cardId": "hSD01-021"
+          },
+          {
+            "uid": "P2-D-72",
+            "cardId": "hBP01-021"
+          },
+          {
+            "uid": "P2-D-88",
+            "cardId": "hBP01-044"
+          },
+          {
+            "uid": "P2-D-84",
+            "cardId": "hSD01-007"
+          },
+          {
+            "uid": "P2-C-126",
+            "cardId": "hY01-001"
+          },
+          {
+            "uid": "P2-C-133",
+            "cardId": "hY02-001"
+          },
+          {
+            "uid": "P2-D-97",
+            "cardId": "hSD01-012"
+          },
+          {
+            "uid": "P2-C-137",
+            "cardId": "hY02-001"
+          },
+          {
+            "uid": "P2-D-112",
+            "cardId": "hSD01-018"
+          }
+        ],
+        "holoPower": [],
+        "life": [
+          {
+            "uid": "P2-C-130",
+            "cardId": "hY01-001"
+          }
+        ],
+        "stage": {
+          "center": {
+            "stageId": "H-15",
+            "stack": [
+              {
+                "uid": "P2-D-71",
+                "cardId": "hBP01-021"
+              },
+              {
+                "uid": "P2-D-81",
+                "cardId": "hSD01-006"
+              },
+              {
+                "uid": "P2-D-79",
+                "cardId": "hSD01-005"
+              }
+            ],
+            "cheers": [],
+            "supports": [],
+            "damage": 0,
+            "resting": false,
+            "enteredStageTurn": 13,
+            "lastBloomTurn": 21
+          },
+          "collab": {
+            "stageId": "H-18",
+            "stack": [
+              {
+                "uid": "P2-D-101",
+                "cardId": "hSD01-014"
+              }
+            ],
+            "cheers": [],
+            "supports": [],
+            "damage": 0,
+            "resting": false,
+            "enteredStageTurn": 19
+          },
+          "back": [
+            {
+              "stageId": "H-16",
+              "stack": [
+                {
+                  "uid": "P2-D-102",
+                  "cardId": "hSD01-014"
+                }
+              ],
+              "cheers": [
+                {
+                  "uid": "P2-C-131",
+                  "cardId": "hY02-001"
+                }
+              ],
+              "supports": [],
+              "damage": 0,
+              "resting": false,
+              "enteredStageTurn": 15
+            },
+            {
+              "stageId": "H-19",
+              "stack": [
+                {
+                  "uid": "P2-D-87",
+                  "cardId": "hBP01-044"
+                }
+              ],
+              "cheers": [],
+              "supports": [],
+              "damage": 0,
+              "resting": false,
+              "enteredStageTurn": 23
+            },
+            {
+              "stageId": "H-4",
+              "stack": [
+                {
+                  "uid": "P2-D-75",
+                  "cardId": "hSD01-004"
+                },
+                {
+                  "uid": "P2-D-78",
+                  "cardId": "hSD01-005"
+                },
+                {
+                  "uid": "P2-D-99",
+                  "cardId": "hSD01-013"
+                },
+                {
+                  "uid": "P2-D-95",
+                  "cardId": "hSD01-011"
+                }
+              ],
+              "cheers": [
+                {
+                  "uid": "P2-C-123",
+                  "cardId": "hY01-001"
+                },
+                {
+                  "uid": "P2-C-127",
+                  "cardId": "hY01-001"
+                },
+                {
+                  "uid": "P2-C-129",
+                  "cardId": "hY01-001"
+                }
+              ],
+              "supports": [],
+              "damage": 20,
+              "resting": false,
+              "enteredStageTurn": 0,
+              "lastBloomTurn": 7,
+              "lastArtTurn": 13
+            },
+            {
+              "stageId": "H-1",
+              "stack": [
+                {
+                  "uid": "P2-D-91",
+                  "cardId": "hSD01-009"
+                },
+                {
+                  "uid": "P2-D-100",
+                  "cardId": "hSD01-013"
+                },
+                {
+                  "uid": "P2-D-96",
+                  "cardId": "hSD01-011"
+                }
+              ],
+              "cheers": [
+                {
+                  "uid": "P2-C-134",
+                  "cardId": "hY02-001"
+                }
+              ],
+              "supports": [],
+              "damage": 0,
+              "resting": true,
+              "enteredStageTurn": 0,
+              "lastBloomTurn": 5,
+              "lastArtTurn": 15
+            }
+          ]
+        },
+        "pendingCheer": null,
+        "redrawCount": 0,
+        "turnsTaken": 14,
+        "spOshiUsed": false,
+        "turnFlags": {
+          "collabUsed": true,
+          "batonPassUsed": false,
+          "limitedUsed": false,
+          "oshiSkillUsed": true
+        }
+      }
+    },
+    "modifiers": [],
+    "log": [
+      {
+        "seq": 1,
+        "turn": 1,
+        "phase": "SETUP",
+        "event": "SETUP_START",
+        "message": "Setup begins; P2 goes first."
+      },
+      {
+        "seq": 2,
+        "turn": 1,
+        "phase": "SETUP",
+        "event": "DRAW",
+        "message": "P2 draws 7 card(s) for opening hand.",
+        "player": "P2",
+        "data": {
+          "requested": 7,
+          "drawn": 7
+        }
+      },
+      {
+        "seq": 3,
+        "turn": 1,
+        "phase": "SETUP",
+        "event": "DRAW",
+        "message": "P1 draws 7 card(s) for opening hand.",
+        "player": "P1",
+        "data": {
+          "requested": 7,
+          "drawn": 7
+        }
+      },
+      {
+        "seq": 4,
+        "turn": 1,
+        "phase": "SETUP",
+        "event": "PLAYER_SETUP",
+        "message": "P2 sets 4 holomem and 5 Life.",
+        "player": "P2",
+        "data": {
+          "redrawCount": 0
+        }
+      },
+      {
+        "seq": 5,
+        "turn": 1,
+        "phase": "SETUP",
+        "event": "PLAYER_SETUP",
+        "message": "P1 sets 2 holomem and 6 Life.",
+        "player": "P1",
+        "data": {
+          "redrawCount": 0
+        }
+      },
+      {
+        "seq": 6,
+        "turn": 1,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P2 starts turn 1.",
+        "player": "P2",
+        "data": {
+          "playerTurn": 1
+        }
+      },
+      {
+        "seq": 7,
+        "turn": 1,
+        "phase": "RESET",
+        "event": "RESET_SKIPPED",
+        "message": "P2 skips their first Reset phase.",
+        "player": "P2"
+      },
+      {
+        "seq": 8,
+        "turn": 1,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P2 draws 1 card(s) for Draw phase.",
+        "player": "P2",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 9,
+        "turn": 1,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P2 reveals the top Cheer.",
+        "player": "P2",
+        "data": {
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 10,
+        "turn": 1,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P2 sends Green Cheer to AZKi.",
+        "player": "P2",
+        "data": {
+          "targetStageId": "H-1",
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 11,
+        "turn": 1,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P2 collabs with Tokino Sora and gains 1 holo Power.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-2"
+        }
+      },
+      {
+        "seq": 12,
+        "turn": 1,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves buff_center_arts.",
+        "player": "P2",
+        "data": {
+          "effectId": "buff_center_arts",
+          "sourceStageId": "H-2"
+        }
+      },
+      {
+        "seq": 13,
+        "turn": 1,
+        "phase": "MAIN",
+        "event": "OSHI_SKILL",
+        "message": "P2 uses Replacement.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 14,
+        "turn": 1,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves reattach_cheer.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 15,
+        "turn": 1,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P2 plays Normal PC.",
+        "player": "P2",
+        "data": {
+          "cardId": "hBP01-104",
+          "effectId": "search_debut_to_stage"
+        }
+      },
+      {
+        "seq": 16,
+        "turn": 1,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves search_debut_to_stage.",
+        "player": "P2",
+        "data": {
+          "effectId": "search_debut_to_stage"
+        }
+      },
+      {
+        "seq": 17,
+        "turn": 1,
+        "phase": "MAIN",
+        "event": "PERFORMANCE_SKIPPED",
+        "message": "P2 skips Performance on the first player's first turn.",
+        "player": "P2"
+      },
+      {
+        "seq": 18,
+        "turn": 1,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P2 ends turn 1.",
+        "player": "P2"
+      },
+      {
+        "seq": 19,
+        "turn": 2,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P1 starts turn 2.",
+        "player": "P1",
+        "data": {
+          "playerTurn": 1
+        }
+      },
+      {
+        "seq": 20,
+        "turn": 2,
+        "phase": "RESET",
+        "event": "RESET_SKIPPED",
+        "message": "P1 skips their first Reset phase.",
+        "player": "P1"
+      },
+      {
+        "seq": 21,
+        "turn": 2,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P1 draws 1 card(s) for Draw phase.",
+        "player": "P1",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 22,
+        "turn": 2,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P1 reveals the top Cheer.",
+        "player": "P1",
+        "data": {
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 23,
+        "turn": 2,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P1 sends Green Cheer to AZKi.",
+        "player": "P1",
+        "data": {
+          "targetStageId": "H-5",
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 24,
+        "turn": 2,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P1 collabs with Tokino Sora and gains 1 holo Power.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-6"
+        }
+      },
+      {
+        "seq": 25,
+        "turn": 2,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves buff_center_arts.",
+        "player": "P1",
+        "data": {
+          "effectId": "buff_center_arts",
+          "sourceStageId": "H-6"
+        }
+      },
+      {
+        "seq": 26,
+        "turn": 2,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P1 plays Harusaki Nodoka.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-016",
+          "effectId": "draw_cards"
+        }
+      },
+      {
+        "seq": 27,
+        "turn": 2,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves draw_cards.",
+        "player": "P1",
+        "data": {
+          "effectId": "draw_cards"
+        }
+      },
+      {
+        "seq": 28,
+        "turn": 2,
+        "phase": "MAIN",
+        "event": "DRAW",
+        "message": "P1 draws 3 card(s) for support effect.",
+        "player": "P1",
+        "data": {
+          "requested": 3,
+          "drawn": 3
+        }
+      },
+      {
+        "seq": 29,
+        "turn": 2,
+        "phase": "MAIN",
+        "event": "PLACE_HOLOMEM",
+        "message": "P1 places Hakui Koyori in Back.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-015",
+          "stageId": "H-8"
+        }
+      },
+      {
+        "seq": 30,
+        "turn": 2,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P1 Baton Passes to Hakui Koyori.",
+        "player": "P1",
+        "data": {
+          "oldCenter": "H-5",
+          "newCenter": "H-8"
+        }
+      },
+      {
+        "seq": 31,
+        "turn": 2,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P1 enters Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 32,
+        "turn": 2,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P1 ends Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 33,
+        "turn": 2,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P1 ends turn 2.",
+        "player": "P1"
+      },
+      {
+        "seq": 34,
+        "turn": 3,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P2 starts turn 3.",
+        "player": "P2",
+        "data": {
+          "playerTurn": 2
+        }
+      },
+      {
+        "seq": 35,
+        "turn": 3,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P2's Collab holomem returns to Back resting.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-2"
+        }
+      },
+      {
+        "seq": 36,
+        "turn": 3,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P2 draws 1 card(s) for Draw phase.",
+        "player": "P2",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 37,
+        "turn": 3,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P2 reveals the top Cheer.",
+        "player": "P2",
+        "data": {
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 38,
+        "turn": 3,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P2 sends Green Cheer to AZKi.",
+        "player": "P2",
+        "data": {
+          "targetStageId": "H-1",
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 39,
+        "turn": 3,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P2 blooms SorAZ to 1st.",
+        "player": "P2",
+        "data": {
+          "cardId": "hSD01-013",
+          "targetStageId": "H-1"
+        }
+      },
+      {
+        "seq": 40,
+        "turn": 3,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P2 collabs with Hakui Koyori and gains 1 holo Power.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-3"
+        }
+      },
+      {
+        "seq": 41,
+        "turn": 3,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves conditional_center_name_effects.",
+        "player": "P2",
+        "data": {
+          "effectId": "conditional_center_name_effects",
+          "sourceStageId": "H-3"
+        }
+      },
+      {
+        "seq": 42,
+        "turn": 3,
+        "phase": "MAIN",
+        "event": "DRAW",
+        "message": "P2 draws 1 card(s) for SoAzKo.",
+        "player": "P2",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 43,
+        "turn": 3,
+        "phase": "MAIN",
+        "event": "EFFECT_SEND_CHEER",
+        "message": "P2 sends Green Cheer from the Cheer deck.",
+        "player": "P2",
+        "data": {
+          "targetStageId": "H-1"
+        }
+      },
+      {
+        "seq": 44,
+        "turn": 3,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P2 plays Harusaki Nodoka.",
+        "player": "P2",
+        "data": {
+          "cardId": "hSD01-016",
+          "effectId": "draw_cards"
+        }
+      },
+      {
+        "seq": 45,
+        "turn": 3,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves draw_cards.",
+        "player": "P2",
+        "data": {
+          "effectId": "draw_cards"
+        }
+      },
+      {
+        "seq": 46,
+        "turn": 3,
+        "phase": "MAIN",
+        "event": "DRAW",
+        "message": "P2 draws 3 card(s) for support effect.",
+        "player": "P2",
+        "data": {
+          "requested": 3,
+          "drawn": 3
+        }
+      },
+      {
+        "seq": 47,
+        "turn": 3,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P2 blooms Tokino Sora to 1st.",
+        "player": "P2",
+        "data": {
+          "cardId": "hSD01-005",
+          "targetStageId": "H-4"
+        }
+      },
+      {
+        "seq": 48,
+        "turn": 3,
+        "phase": "MAIN",
+        "event": "OSHI_SKILL",
+        "message": "P2 uses Replacement.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 49,
+        "turn": 3,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves reattach_cheer.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 50,
+        "turn": 3,
+        "phase": "MAIN",
+        "event": "PLACE_HOLOMEM",
+        "message": "P2 places AZKi in Back.",
+        "player": "P2",
+        "data": {
+          "cardId": "hBP01-044",
+          "stageId": "H-9"
+        }
+      },
+      {
+        "seq": 51,
+        "turn": 3,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P2 plays Normal PC.",
+        "player": "P2",
+        "data": {
+          "cardId": "hBP01-104",
+          "effectId": "search_debut_to_stage"
+        }
+      },
+      {
+        "seq": 52,
+        "turn": 3,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves search_debut_to_stage.",
+        "player": "P2",
+        "data": {
+          "effectId": "search_debut_to_stage"
+        }
+      },
+      {
+        "seq": 53,
+        "turn": 3,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P2 Baton Passes to Tokino Sora.",
+        "player": "P2",
+        "data": {
+          "oldCenter": "H-1",
+          "newCenter": "H-4"
+        }
+      },
+      {
+        "seq": 54,
+        "turn": 3,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P2 enters Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 55,
+        "turn": 3,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P2 ends Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 56,
+        "turn": 3,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P2 ends turn 3.",
+        "player": "P2"
+      },
+      {
+        "seq": 57,
+        "turn": 4,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P1 starts turn 4.",
+        "player": "P1",
+        "data": {
+          "playerTurn": 2
+        }
+      },
+      {
+        "seq": 58,
+        "turn": 4,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P1's Collab holomem returns to Back resting.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-6"
+        }
+      },
+      {
+        "seq": 59,
+        "turn": 4,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P1 draws 1 card(s) for Draw phase.",
+        "player": "P1",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 60,
+        "turn": 4,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P1 reveals the top Cheer.",
+        "player": "P1",
+        "data": {
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 61,
+        "turn": 4,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P1 sends Green Cheer to Hakui Koyori.",
+        "player": "P1",
+        "data": {
+          "targetStageId": "H-8",
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 62,
+        "turn": 4,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P1 blooms Tokino Sora to 1st.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-006",
+          "targetStageId": "H-6"
+        }
+      },
+      {
+        "seq": 63,
+        "turn": 4,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P1 blooms AZKi to 1st.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-010",
+          "targetStageId": "H-5"
+        }
+      },
+      {
+        "seq": 64,
+        "turn": 4,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P1 collabs with AZKi and gains 1 holo Power.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-5"
+        }
+      },
+      {
+        "seq": 65,
+        "turn": 4,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P1 plays Harusaki Nodoka.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-016",
+          "effectId": "draw_cards"
+        }
+      },
+      {
+        "seq": 66,
+        "turn": 4,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves draw_cards.",
+        "player": "P1",
+        "data": {
+          "effectId": "draw_cards"
+        }
+      },
+      {
+        "seq": 67,
+        "turn": 4,
+        "phase": "MAIN",
+        "event": "DRAW",
+        "message": "P1 draws 3 card(s) for support effect.",
+        "player": "P1",
+        "data": {
+          "requested": 3,
+          "drawn": 3
+        }
+      },
+      {
+        "seq": 68,
+        "turn": 4,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P1 plays Normal PC.",
+        "player": "P1",
+        "data": {
+          "cardId": "hBP01-104",
+          "effectId": "search_debut_to_stage"
+        }
+      },
+      {
+        "seq": 69,
+        "turn": 4,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves search_debut_to_stage.",
+        "player": "P1",
+        "data": {
+          "effectId": "search_debut_to_stage"
+        }
+      },
+      {
+        "seq": 70,
+        "turn": 4,
+        "phase": "MAIN",
+        "event": "PLACE_HOLOMEM",
+        "message": "P1 places Airani Iofifteen in Back.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-012",
+          "stageId": "H-11"
+        }
+      },
+      {
+        "seq": 71,
+        "turn": 4,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P1 Baton Passes to Tokino Sora.",
+        "player": "P1",
+        "data": {
+          "oldCenter": "H-8",
+          "newCenter": "H-10"
+        }
+      },
+      {
+        "seq": 72,
+        "turn": 4,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P1 enters Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 73,
+        "turn": 4,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P1 ends Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 74,
+        "turn": 4,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P1 ends turn 4.",
+        "player": "P1"
+      },
+      {
+        "seq": 75,
+        "turn": 5,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P2 starts turn 5.",
+        "player": "P2",
+        "data": {
+          "playerTurn": 3
+        }
+      },
+      {
+        "seq": 76,
+        "turn": 5,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P2's Collab holomem returns to Back resting.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-3"
+        }
+      },
+      {
+        "seq": 77,
+        "turn": 5,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P2 draws 1 card(s) for Draw phase.",
+        "player": "P2",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 78,
+        "turn": 5,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P2 reveals the top Cheer.",
+        "player": "P2",
+        "data": {
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 79,
+        "turn": 5,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P2 sends Green Cheer to SorAZ.",
+        "player": "P2",
+        "data": {
+          "targetStageId": "H-1",
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 80,
+        "turn": 5,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P2 blooms AZKi to 2nd.",
+        "player": "P2",
+        "data": {
+          "cardId": "hSD01-011",
+          "targetStageId": "H-1"
+        }
+      },
+      {
+        "seq": 81,
+        "turn": 5,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P2 blooms SorAZ to 1st.",
+        "player": "P2",
+        "data": {
+          "cardId": "hSD01-013",
+          "targetStageId": "H-4"
+        }
+      },
+      {
+        "seq": 82,
+        "turn": 5,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P2 collabs with Tokino Sora and gains 1 holo Power.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-2"
+        }
+      },
+      {
+        "seq": 83,
+        "turn": 5,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves buff_center_arts.",
+        "player": "P2",
+        "data": {
+          "effectId": "buff_center_arts",
+          "sourceStageId": "H-2"
+        }
+      },
+      {
+        "seq": 84,
+        "turn": 5,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P2 plays First Gravity.",
+        "player": "P2",
+        "data": {
+          "cardId": "hSD01-021",
+          "effectId": "look_top_reveal_names"
+        }
+      },
+      {
+        "seq": 85,
+        "turn": 5,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves look_top_reveal_names.",
+        "player": "P2",
+        "data": {
+          "effectId": "look_top_reveal_names"
+        }
+      },
+      {
+        "seq": 86,
+        "turn": 5,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P2 blooms AZKi to 1st.",
+        "player": "P2",
+        "data": {
+          "cardId": "hSD01-010",
+          "targetStageId": "H-7"
+        }
+      },
+      {
+        "seq": 87,
+        "turn": 5,
+        "phase": "MAIN",
+        "event": "OSHI_SKILL",
+        "message": "P2 uses Replacement.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 88,
+        "turn": 5,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves reattach_cheer.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 89,
+        "turn": 5,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P2 enters Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 90,
+        "turn": 5,
+        "phase": "PERFORMANCE",
+        "event": "ART",
+        "message": "P2's Tokino Sora uses On Stage! for 20 damage.",
+        "player": "P2",
+        "data": {
+          "attackerStageId": "H-2",
+          "targetStageId": "H-10",
+          "artIndex": 0,
+          "damage": 20
+        }
+      },
+      {
+        "seq": 91,
+        "turn": 5,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P2 ends Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 92,
+        "turn": 5,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P2 ends turn 5.",
+        "player": "P2"
+      },
+      {
+        "seq": 93,
+        "turn": 6,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P1 starts turn 6.",
+        "player": "P1",
+        "data": {
+          "playerTurn": 3
+        }
+      },
+      {
+        "seq": 94,
+        "turn": 6,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P1's Collab holomem returns to Back resting.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-5"
+        }
+      },
+      {
+        "seq": 95,
+        "turn": 6,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P1 draws 1 card(s) for Draw phase.",
+        "player": "P1",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 96,
+        "turn": 6,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P1 reveals the top Cheer.",
+        "player": "P1",
+        "data": {
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 97,
+        "turn": 6,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P1 sends Green Cheer to Tokino Sora.",
+        "player": "P1",
+        "data": {
+          "targetStageId": "H-6",
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 98,
+        "turn": 6,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P1 blooms Tokino Sora to 1st.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-006",
+          "targetStageId": "H-10"
+        }
+      },
+      {
+        "seq": 99,
+        "turn": 6,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P1 blooms Tokino Sora to 1st.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-005",
+          "targetStageId": "H-6"
+        }
+      },
+      {
+        "seq": 100,
+        "turn": 6,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P1 blooms SorAZ to 1st.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-013",
+          "targetStageId": "H-5"
+        }
+      },
+      {
+        "seq": 101,
+        "turn": 6,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P1 collabs with Hakui Koyori and gains 1 holo Power.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-8"
+        }
+      },
+      {
+        "seq": 102,
+        "turn": 6,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves conditional_center_name_effects.",
+        "player": "P1",
+        "data": {
+          "effectId": "conditional_center_name_effects",
+          "sourceStageId": "H-8"
+        }
+      },
+      {
+        "seq": 103,
+        "turn": 6,
+        "phase": "MAIN",
+        "event": "DRAW",
+        "message": "P1 draws 1 card(s) for SoAzKo.",
+        "player": "P1",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 104,
+        "turn": 6,
+        "phase": "MAIN",
+        "event": "OSHI_SKILL",
+        "message": "P1 uses A Mic in My Right Hand.",
+        "player": "P1",
+        "data": {
+          "effectId": "send_archive_cheers_to_green"
+        }
+      },
+      {
+        "seq": 105,
+        "turn": 6,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves send_archive_cheers_to_green.",
+        "player": "P1",
+        "data": {
+          "effectId": "send_archive_cheers_to_green"
+        }
+      },
+      {
+        "seq": 106,
+        "turn": 6,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P1 plays First Gravity.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-021",
+          "effectId": "look_top_reveal_names"
+        }
+      },
+      {
+        "seq": 107,
+        "turn": 6,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves look_top_reveal_names.",
+        "player": "P1",
+        "data": {
+          "effectId": "look_top_reveal_names"
+        }
+      },
+      {
+        "seq": 108,
+        "turn": 6,
+        "phase": "MAIN",
+        "event": "PLACE_HOLOMEM",
+        "message": "P1 places AZKi in Back.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-009",
+          "stageId": "H-12"
+        }
+      },
+      {
+        "seq": 109,
+        "turn": 6,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P1 plays Circle of hololive Listeners.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-020",
+          "effectId": "roll_send_archive_cheer"
+        }
+      },
+      {
+        "seq": 110,
+        "turn": 6,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves roll_send_archive_cheer.",
+        "player": "P1",
+        "data": {
+          "effectId": "roll_send_archive_cheer"
+        }
+      },
+      {
+        "seq": 111,
+        "turn": 6,
+        "phase": "MAIN",
+        "event": "DIE_ROLL",
+        "message": "P1 rolls 6.",
+        "player": "P1",
+        "data": {
+          "result": 6,
+          "sourceKind": "support_ability"
+        }
+      },
+      {
+        "seq": 112,
+        "turn": 6,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P1 enters Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 113,
+        "turn": 6,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P1 ends Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 114,
+        "turn": 6,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P1 ends turn 6.",
+        "player": "P1"
+      },
+      {
+        "seq": 115,
+        "turn": 7,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P2 starts turn 7.",
+        "player": "P2",
+        "data": {
+          "playerTurn": 4
+        }
+      },
+      {
+        "seq": 116,
+        "turn": 7,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P2's Collab holomem returns to Back resting.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-2"
+        }
+      },
+      {
+        "seq": 117,
+        "turn": 7,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P2 draws 1 card(s) for Draw phase.",
+        "player": "P2",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 118,
+        "turn": 7,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P2 reveals the top Cheer.",
+        "player": "P2",
+        "data": {
+          "cardId": "hY01-001"
+        }
+      },
+      {
+        "seq": 119,
+        "turn": 7,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P2 sends White Cheer to SorAZ.",
+        "player": "P2",
+        "data": {
+          "targetStageId": "H-4",
+          "cardId": "hY01-001"
+        }
+      },
+      {
+        "seq": 120,
+        "turn": 7,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P2 collabs with Hakui Koyori and gains 1 holo Power.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-3"
+        }
+      },
+      {
+        "seq": 121,
+        "turn": 7,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves conditional_center_name_effects.",
+        "player": "P2",
+        "data": {
+          "effectId": "conditional_center_name_effects",
+          "sourceStageId": "H-3"
+        }
+      },
+      {
+        "seq": 122,
+        "turn": 7,
+        "phase": "MAIN",
+        "event": "DRAW",
+        "message": "P2 draws 1 card(s) for SoAzKo.",
+        "player": "P2",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 123,
+        "turn": 7,
+        "phase": "MAIN",
+        "event": "EFFECT_SEND_CHEER",
+        "message": "P2 sends White Cheer from the Cheer deck.",
+        "player": "P2",
+        "data": {
+          "targetStageId": "H-4"
+        }
+      },
+      {
+        "seq": 124,
+        "turn": 7,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P2 blooms AZKi to 2nd.",
+        "player": "P2",
+        "data": {
+          "cardId": "hSD01-011",
+          "targetStageId": "H-4"
+        }
+      },
+      {
+        "seq": 125,
+        "turn": 7,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P2 plays Circle of hololive Listeners.",
+        "player": "P2",
+        "data": {
+          "cardId": "hSD01-020",
+          "effectId": "roll_send_archive_cheer"
+        }
+      },
+      {
+        "seq": 126,
+        "turn": 7,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves roll_send_archive_cheer.",
+        "player": "P2",
+        "data": {
+          "effectId": "roll_send_archive_cheer"
+        }
+      },
+      {
+        "seq": 127,
+        "turn": 7,
+        "phase": "MAIN",
+        "event": "DIE_ROLL",
+        "message": "P2 rolls 5.",
+        "player": "P2",
+        "data": {
+          "result": 5,
+          "sourceKind": "support_ability"
+        }
+      },
+      {
+        "seq": 128,
+        "turn": 7,
+        "phase": "MAIN",
+        "event": "OSHI_SKILL",
+        "message": "P2 uses Replacement.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 129,
+        "turn": 7,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves reattach_cheer.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 130,
+        "turn": 7,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P2 Baton Passes to AZKi.",
+        "player": "P2",
+        "data": {
+          "oldCenter": "H-4",
+          "newCenter": "H-1"
+        }
+      },
+      {
+        "seq": 131,
+        "turn": 7,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P2 enters Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 132,
+        "turn": 7,
+        "phase": "PERFORMANCE",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves send_cheer_if_name_on_stage.",
+        "player": "P2",
+        "data": {
+          "effectId": "send_cheer_if_name_on_stage",
+          "source": "Art"
+        }
+      },
+      {
+        "seq": 133,
+        "turn": 7,
+        "phase": "PERFORMANCE",
+        "event": "EFFECT_SEND_CHEER",
+        "message": "P2 sends Green Cheer from the Cheer deck.",
+        "player": "P2",
+        "data": {
+          "targetStageId": "H-1"
+        }
+      },
+      {
+        "seq": 134,
+        "turn": 7,
+        "phase": "PERFORMANCE",
+        "event": "ART",
+        "message": "P2's AZKi uses SorAZ Gravity for 60 damage.",
+        "player": "P2",
+        "data": {
+          "attackerStageId": "H-1",
+          "targetStageId": "H-8",
+          "artIndex": 0,
+          "damage": 60
+        }
+      },
+      {
+        "seq": 135,
+        "turn": 7,
+        "phase": "PERFORMANCE",
+        "event": "DOWNED",
+        "message": "P1's Hakui Koyori is downed and will take 1 Life damage.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-8",
+          "lifeDamage": 1
+        }
+      },
+      {
+        "seq": 136,
+        "turn": 7,
+        "phase": "PERFORMANCE",
+        "event": "LIFE_DAMAGE",
+        "message": "P1 loses 1 Life and sends the revealed Cheer to Tokino Sora.",
+        "player": "P1",
+        "data": {
+          "remainingLife": 5
+        }
+      },
+      {
+        "seq": 137,
+        "turn": 7,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P2 ends Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 138,
+        "turn": 7,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P2 ends turn 7.",
+        "player": "P2"
+      },
+      {
+        "seq": 139,
+        "turn": 8,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P1 starts turn 8.",
+        "player": "P1",
+        "data": {
+          "playerTurn": 4
+        }
+      },
+      {
+        "seq": 140,
+        "turn": 8,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P1 draws 1 card(s) for Draw phase.",
+        "player": "P1",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 141,
+        "turn": 8,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P1 reveals the top Cheer.",
+        "player": "P1",
+        "data": {
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 142,
+        "turn": 8,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P1 sends Green Cheer to Tokino Sora.",
+        "player": "P1",
+        "data": {
+          "targetStageId": "H-10",
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 143,
+        "turn": 8,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P1 blooms Tokino Sora to 1st.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-005",
+          "targetStageId": "H-10"
+        }
+      },
+      {
+        "seq": 144,
+        "turn": 8,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P1 collabs with Airani Iofifteen and gains 1 holo Power.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-11"
+        }
+      },
+      {
+        "seq": 145,
+        "turn": 8,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves send_archive_cheer_to_center.",
+        "player": "P1",
+        "data": {
+          "effectId": "send_archive_cheer_to_center",
+          "sourceStageId": "H-11"
+        }
+      },
+      {
+        "seq": 146,
+        "turn": 8,
+        "phase": "MAIN",
+        "event": "PLACE_HOLOMEM",
+        "message": "P1 places AZKi in Back.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-009",
+          "stageId": "H-13"
+        }
+      },
+      {
+        "seq": 147,
+        "turn": 8,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P1 plays Manager-chan.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-017",
+          "effectId": "mulligan_hand_draw"
+        }
+      },
+      {
+        "seq": 148,
+        "turn": 8,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves mulligan_hand_draw.",
+        "player": "P1",
+        "data": {
+          "effectId": "mulligan_hand_draw"
+        }
+      },
+      {
+        "seq": 149,
+        "turn": 8,
+        "phase": "MAIN",
+        "event": "DRAW",
+        "message": "P1 draws 5 card(s) for Manager-chan.",
+        "player": "P1",
+        "data": {
+          "requested": 5,
+          "drawn": 5
+        }
+      },
+      {
+        "seq": 150,
+        "turn": 8,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P1 Baton Passes to Tokino Sora.",
+        "player": "P1",
+        "data": {
+          "oldCenter": "H-10",
+          "newCenter": "H-6"
+        }
+      },
+      {
+        "seq": 151,
+        "turn": 8,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P1 enters Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 152,
+        "turn": 8,
+        "phase": "PERFORMANCE",
+        "event": "ART",
+        "message": "P1's Airani Iofifteen uses Drawing is so fun! for 20 damage.",
+        "player": "P1",
+        "data": {
+          "attackerStageId": "H-11",
+          "targetStageId": "H-3",
+          "artIndex": 0,
+          "damage": 20
+        }
+      },
+      {
+        "seq": 153,
+        "turn": 8,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P1 ends Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 154,
+        "turn": 8,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P1 ends turn 8.",
+        "player": "P1"
+      },
+      {
+        "seq": 155,
+        "turn": 9,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P2 starts turn 9.",
+        "player": "P2",
+        "data": {
+          "playerTurn": 5
+        }
+      },
+      {
+        "seq": 156,
+        "turn": 9,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P2's Collab holomem returns to Back resting.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-3"
+        }
+      },
+      {
+        "seq": 157,
+        "turn": 9,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P2 draws 1 card(s) for Draw phase.",
+        "player": "P2",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 158,
+        "turn": 9,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P2 reveals the top Cheer.",
+        "player": "P2",
+        "data": {
+          "cardId": "hY01-001"
+        }
+      },
+      {
+        "seq": 159,
+        "turn": 9,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P2 sends White Cheer to AZKi.",
+        "player": "P2",
+        "data": {
+          "targetStageId": "H-4",
+          "cardId": "hY01-001"
+        }
+      },
+      {
+        "seq": 160,
+        "turn": 9,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P2 collabs with Tokino Sora and gains 1 holo Power.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-2"
+        }
+      },
+      {
+        "seq": 161,
+        "turn": 9,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves buff_center_arts.",
+        "player": "P2",
+        "data": {
+          "effectId": "buff_center_arts",
+          "sourceStageId": "H-2"
+        }
+      },
+      {
+        "seq": 162,
+        "turn": 9,
+        "phase": "MAIN",
+        "event": "OSHI_SKILL",
+        "message": "P2 uses Replacement.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 163,
+        "turn": 9,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves reattach_cheer.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 164,
+        "turn": 9,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P2 Baton Passes to AZKi.",
+        "player": "P2",
+        "data": {
+          "oldCenter": "H-1",
+          "newCenter": "H-4"
+        }
+      },
+      {
+        "seq": 165,
+        "turn": 9,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P2 enters Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 166,
+        "turn": 9,
+        "phase": "PERFORMANCE",
+        "event": "ART",
+        "message": "P2's Tokino Sora uses On Stage! for 20 damage.",
+        "player": "P2",
+        "data": {
+          "attackerStageId": "H-2",
+          "targetStageId": "H-11",
+          "artIndex": 0,
+          "damage": 20
+        }
+      },
+      {
+        "seq": 167,
+        "turn": 9,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P2 ends Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 168,
+        "turn": 9,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P2 ends turn 9.",
+        "player": "P2"
+      },
+      {
+        "seq": 169,
+        "turn": 10,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P1 starts turn 10.",
+        "player": "P1",
+        "data": {
+          "playerTurn": 5
+        }
+      },
+      {
+        "seq": 170,
+        "turn": 10,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P1's Collab holomem returns to Back resting.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-11"
+        }
+      },
+      {
+        "seq": 171,
+        "turn": 10,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P1 draws 1 card(s) for Draw phase.",
+        "player": "P1",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 172,
+        "turn": 10,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P1 reveals the top Cheer.",
+        "player": "P1",
+        "data": {
+          "cardId": "hY01-001"
+        }
+      },
+      {
+        "seq": 173,
+        "turn": 10,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P1 sends White Cheer to SorAZ.",
+        "player": "P1",
+        "data": {
+          "targetStageId": "H-5",
+          "cardId": "hY01-001"
+        }
+      },
+      {
+        "seq": 174,
+        "turn": 10,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P1 blooms AZKi to 2nd.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-011",
+          "targetStageId": "H-5"
+        }
+      },
+      {
+        "seq": 175,
+        "turn": 10,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P1 collabs with AZKi and gains 1 holo Power.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-12"
+        }
+      },
+      {
+        "seq": 176,
+        "turn": 10,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves roll_send_cheer_optional_move_back.",
+        "player": "P1",
+        "data": {
+          "effectId": "roll_send_cheer_optional_move_back",
+          "sourceStageId": "H-12"
+        }
+      },
+      {
+        "seq": 177,
+        "turn": 10,
+        "phase": "MAIN",
+        "event": "DIE_ROLL",
+        "message": "P1 rolls 4.",
+        "player": "P1",
+        "data": {
+          "result": 4,
+          "sourceKind": "holomem_ability"
+        }
+      },
+      {
+        "seq": 178,
+        "turn": 10,
+        "phase": "MAIN",
+        "event": "EFFECT_SEND_CHEER",
+        "message": "P1 sends White Cheer from the Cheer deck.",
+        "player": "P1",
+        "data": {
+          "targetStageId": "H-10"
+        }
+      },
+      {
+        "seq": 179,
+        "turn": 10,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P1 plays Amazing PC.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-019",
+          "effectId": "archive_cheer_search_nonbuzz_bloom"
+        }
+      },
+      {
+        "seq": 180,
+        "turn": 10,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves archive_cheer_search_nonbuzz_bloom.",
+        "player": "P1",
+        "data": {
+          "effectId": "archive_cheer_search_nonbuzz_bloom"
+        }
+      },
+      {
+        "seq": 181,
+        "turn": 10,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P1 blooms Tokino Sora to 1st.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-005",
+          "targetStageId": "H-6"
+        }
+      },
+      {
+        "seq": 182,
+        "turn": 10,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P1 enters Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 183,
+        "turn": 10,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P1 ends Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 184,
+        "turn": 10,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P1 ends turn 10.",
+        "player": "P1"
+      },
+      {
+        "seq": 185,
+        "turn": 11,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P2 starts turn 11.",
+        "player": "P2",
+        "data": {
+          "playerTurn": 6
+        }
+      },
+      {
+        "seq": 186,
+        "turn": 11,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P2's Collab holomem returns to Back resting.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-2"
+        }
+      },
+      {
+        "seq": 187,
+        "turn": 11,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P2 draws 1 card(s) for Draw phase.",
+        "player": "P2",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 188,
+        "turn": 11,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P2 reveals the top Cheer.",
+        "player": "P2",
+        "data": {
+          "cardId": "hY01-001"
+        }
+      },
+      {
+        "seq": 189,
+        "turn": 11,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P2 sends White Cheer to AZKi.",
+        "player": "P2",
+        "data": {
+          "targetStageId": "H-4",
+          "cardId": "hY01-001"
+        }
+      },
+      {
+        "seq": 190,
+        "turn": 11,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P2 collabs with Hakui Koyori and gains 1 holo Power.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-3"
+        }
+      },
+      {
+        "seq": 191,
+        "turn": 11,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves conditional_center_name_effects.",
+        "player": "P2",
+        "data": {
+          "effectId": "conditional_center_name_effects",
+          "sourceStageId": "H-3"
+        }
+      },
+      {
+        "seq": 192,
+        "turn": 11,
+        "phase": "MAIN",
+        "event": "EFFECT_SEND_CHEER",
+        "message": "P2 sends White Cheer from the Cheer deck.",
+        "player": "P2",
+        "data": {
+          "targetStageId": "H-4"
+        }
+      },
+      {
+        "seq": 193,
+        "turn": 11,
+        "phase": "MAIN",
+        "event": "OSHI_SKILL",
+        "message": "P2 uses Replacement.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 194,
+        "turn": 11,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves reattach_cheer.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 195,
+        "turn": 11,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P2 Baton Passes to AZKi.",
+        "player": "P2",
+        "data": {
+          "oldCenter": "H-4",
+          "newCenter": "H-1"
+        }
+      },
+      {
+        "seq": 196,
+        "turn": 11,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P2 enters Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 197,
+        "turn": 11,
+        "phase": "PERFORMANCE",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves send_cheer_if_name_on_stage.",
+        "player": "P2",
+        "data": {
+          "effectId": "send_cheer_if_name_on_stage",
+          "source": "Art"
+        }
+      },
+      {
+        "seq": 198,
+        "turn": 11,
+        "phase": "PERFORMANCE",
+        "event": "EFFECT_SEND_CHEER",
+        "message": "P2 sends Green Cheer from the Cheer deck.",
+        "player": "P2",
+        "data": {
+          "targetStageId": "H-4"
+        }
+      },
+      {
+        "seq": 199,
+        "turn": 11,
+        "phase": "PERFORMANCE",
+        "event": "ART",
+        "message": "P2's AZKi uses SorAZ Gravity for 60 damage.",
+        "player": "P2",
+        "data": {
+          "attackerStageId": "H-1",
+          "targetStageId": "H-12",
+          "artIndex": 0,
+          "damage": 60
+        }
+      },
+      {
+        "seq": 200,
+        "turn": 11,
+        "phase": "PERFORMANCE",
+        "event": "DOWNED",
+        "message": "P1's AZKi is downed and will take 1 Life damage.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-12",
+          "lifeDamage": 1
+        }
+      },
+      {
+        "seq": 201,
+        "turn": 11,
+        "phase": "PERFORMANCE",
+        "event": "LIFE_DAMAGE",
+        "message": "P1 loses 1 Life and sends the revealed Cheer to Tokino Sora.",
+        "player": "P1",
+        "data": {
+          "remainingLife": 4
+        }
+      },
+      {
+        "seq": 202,
+        "turn": 11,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P2 ends Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 203,
+        "turn": 11,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P2 ends turn 11.",
+        "player": "P2"
+      },
+      {
+        "seq": 204,
+        "turn": 12,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P1 starts turn 12.",
+        "player": "P1",
+        "data": {
+          "playerTurn": 6
+        }
+      },
+      {
+        "seq": 205,
+        "turn": 12,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P1 draws 1 card(s) for Draw phase.",
+        "player": "P1",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 206,
+        "turn": 12,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P1 reveals the top Cheer.",
+        "player": "P1",
+        "data": {
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 207,
+        "turn": 12,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P1 sends Green Cheer to AZKi.",
+        "player": "P1",
+        "data": {
+          "targetStageId": "H-5",
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 208,
+        "turn": 12,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P1 collabs with AZKi and gains 1 holo Power.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-13"
+        }
+      },
+      {
+        "seq": 209,
+        "turn": 12,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves roll_send_cheer_optional_move_back.",
+        "player": "P1",
+        "data": {
+          "effectId": "roll_send_cheer_optional_move_back",
+          "sourceStageId": "H-13"
+        }
+      },
+      {
+        "seq": 210,
+        "turn": 12,
+        "phase": "MAIN",
+        "event": "DIE_REPLACED",
+        "message": "P1 uses A Map in My Left Hand and declares 1.",
+        "player": "P1",
+        "data": {
+          "result": 1
+        }
+      },
+      {
+        "seq": 211,
+        "turn": 12,
+        "phase": "MAIN",
+        "event": "EFFECT_SEND_CHEER",
+        "message": "P1 sends Green Cheer from the Cheer deck.",
+        "player": "P1",
+        "data": {
+          "targetStageId": "H-10"
+        }
+      },
+      {
+        "seq": 212,
+        "turn": 12,
+        "phase": "MAIN",
+        "event": "PLACE_HOLOMEM",
+        "message": "P1 places Amane Kanata in Back.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-014",
+          "stageId": "H-14"
+        }
+      },
+      {
+        "seq": 213,
+        "turn": 12,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P1 Baton Passes to AZKi.",
+        "player": "P1",
+        "data": {
+          "oldCenter": "H-6",
+          "newCenter": "H-5"
+        }
+      },
+      {
+        "seq": 214,
+        "turn": 12,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P1 enters Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 215,
+        "turn": 12,
+        "phase": "PERFORMANCE",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves send_cheer_if_name_on_stage.",
+        "player": "P1",
+        "data": {
+          "effectId": "send_cheer_if_name_on_stage",
+          "source": "Art"
+        }
+      },
+      {
+        "seq": 216,
+        "turn": 12,
+        "phase": "PERFORMANCE",
+        "event": "EFFECT_SEND_CHEER",
+        "message": "P1 sends White Cheer from the Cheer deck.",
+        "player": "P1",
+        "data": {
+          "targetStageId": "H-6"
+        }
+      },
+      {
+        "seq": 217,
+        "turn": 12,
+        "phase": "PERFORMANCE",
+        "event": "ART",
+        "message": "P1's AZKi uses SorAZ Gravity for 60 damage.",
+        "player": "P1",
+        "data": {
+          "attackerStageId": "H-5",
+          "targetStageId": "H-3",
+          "artIndex": 0,
+          "damage": 60
+        }
+      },
+      {
+        "seq": 218,
+        "turn": 12,
+        "phase": "PERFORMANCE",
+        "event": "DOWNED",
+        "message": "P2's Hakui Koyori is downed and will take 1 Life damage.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-3",
+          "lifeDamage": 1
+        }
+      },
+      {
+        "seq": 219,
+        "turn": 12,
+        "phase": "PERFORMANCE",
+        "event": "LIFE_DAMAGE",
+        "message": "P2 loses 1 Life and sends the revealed Cheer to AZKi.",
+        "player": "P2",
+        "data": {
+          "remainingLife": 4
+        }
+      },
+      {
+        "seq": 220,
+        "turn": 12,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P1 ends Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 221,
+        "turn": 12,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P1 ends turn 12.",
+        "player": "P1"
+      },
+      {
+        "seq": 222,
+        "turn": 13,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P2 starts turn 13.",
+        "player": "P2",
+        "data": {
+          "playerTurn": 7
+        }
+      },
+      {
+        "seq": 223,
+        "turn": 13,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P2 draws 1 card(s) for Draw phase.",
+        "player": "P2",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 224,
+        "turn": 13,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P2 reveals the top Cheer.",
+        "player": "P2",
+        "data": {
+          "cardId": "hY01-001"
+        }
+      },
+      {
+        "seq": 225,
+        "turn": 13,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P2 sends White Cheer to AZKi.",
+        "player": "P2",
+        "data": {
+          "targetStageId": "H-1",
+          "cardId": "hY01-001"
+        }
+      },
+      {
+        "seq": 226,
+        "turn": 13,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P2 collabs with Tokino Sora and gains 1 holo Power.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-2"
+        }
+      },
+      {
+        "seq": 227,
+        "turn": 13,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves buff_center_arts.",
+        "player": "P2",
+        "data": {
+          "effectId": "buff_center_arts",
+          "sourceStageId": "H-2"
+        }
+      },
+      {
+        "seq": 228,
+        "turn": 13,
+        "phase": "MAIN",
+        "event": "OSHI_SKILL",
+        "message": "P2 uses Replacement.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 229,
+        "turn": 13,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves reattach_cheer.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 230,
+        "turn": 13,
+        "phase": "MAIN",
+        "event": "PLACE_HOLOMEM",
+        "message": "P2 places Tokino Sora in Back.",
+        "player": "P2",
+        "data": {
+          "cardId": "hBP01-021",
+          "stageId": "H-15"
+        }
+      },
+      {
+        "seq": 231,
+        "turn": 13,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P2 Baton Passes to AZKi.",
+        "player": "P2",
+        "data": {
+          "oldCenter": "H-1",
+          "newCenter": "H-4"
+        }
+      },
+      {
+        "seq": 232,
+        "turn": 13,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P2 enters Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 233,
+        "turn": 13,
+        "phase": "PERFORMANCE",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves send_cheer_if_name_on_stage.",
+        "player": "P2",
+        "data": {
+          "effectId": "send_cheer_if_name_on_stage",
+          "source": "Art"
+        }
+      },
+      {
+        "seq": 234,
+        "turn": 13,
+        "phase": "PERFORMANCE",
+        "event": "EFFECT_SEND_CHEER",
+        "message": "P2 sends Green Cheer from the Cheer deck.",
+        "player": "P2",
+        "data": {
+          "targetStageId": "H-1"
+        }
+      },
+      {
+        "seq": 235,
+        "turn": 13,
+        "phase": "PERFORMANCE",
+        "event": "ART",
+        "message": "P2's AZKi uses SorAZ Gravity for 60 damage.",
+        "player": "P2",
+        "data": {
+          "attackerStageId": "H-4",
+          "targetStageId": "H-5",
+          "artIndex": 0,
+          "damage": 60
+        }
+      },
+      {
+        "seq": 236,
+        "turn": 13,
+        "phase": "PERFORMANCE",
+        "event": "ART",
+        "message": "P2's Tokino Sora uses On Stage! for 20 damage.",
+        "player": "P2",
+        "data": {
+          "attackerStageId": "H-2",
+          "targetStageId": "H-5",
+          "artIndex": 0,
+          "damage": 20
+        }
+      },
+      {
+        "seq": 237,
+        "turn": 13,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P2 ends Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 238,
+        "turn": 13,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P2 ends turn 13.",
+        "player": "P2"
+      },
+      {
+        "seq": 239,
+        "turn": 14,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P1 starts turn 14.",
+        "player": "P1",
+        "data": {
+          "playerTurn": 7
+        }
+      },
+      {
+        "seq": 240,
+        "turn": 14,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P1 draws 1 card(s) for Draw phase.",
+        "player": "P1",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 241,
+        "turn": 14,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P1 reveals the top Cheer.",
+        "player": "P1",
+        "data": {
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 242,
+        "turn": 14,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P1 sends Green Cheer to Amane Kanata.",
+        "player": "P1",
+        "data": {
+          "targetStageId": "H-14",
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 243,
+        "turn": 14,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P1 collabs with Airani Iofifteen and gains 1 holo Power.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-11"
+        }
+      },
+      {
+        "seq": 244,
+        "turn": 14,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves send_archive_cheer_to_center.",
+        "player": "P1",
+        "data": {
+          "effectId": "send_archive_cheer_to_center",
+          "sourceStageId": "H-11"
+        }
+      },
+      {
+        "seq": 245,
+        "turn": 14,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P1 Baton Passes to Tokino Sora.",
+        "player": "P1",
+        "data": {
+          "oldCenter": "H-5",
+          "newCenter": "H-10"
+        }
+      },
+      {
+        "seq": 246,
+        "turn": 14,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P1 enters Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 247,
+        "turn": 14,
+        "phase": "PERFORMANCE",
+        "event": "ART",
+        "message": "P1's Tokino Sora uses Your Heart… Will Turn from Cloudy to Sunny! for 50 damage.",
+        "player": "P1",
+        "data": {
+          "attackerStageId": "H-10",
+          "targetStageId": "H-2",
+          "artIndex": 1,
+          "damage": 50
+        }
+      },
+      {
+        "seq": 248,
+        "turn": 14,
+        "phase": "PERFORMANCE",
+        "event": "DOWNED",
+        "message": "P2's Tokino Sora is downed and will take 1 Life damage.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-2",
+          "lifeDamage": 1
+        }
+      },
+      {
+        "seq": 249,
+        "turn": 14,
+        "phase": "PERFORMANCE",
+        "event": "LIFE_DAMAGE",
+        "message": "P2 loses 1 Life and sends the revealed Cheer to AZKi.",
+        "player": "P2",
+        "data": {
+          "remainingLife": 3
+        }
+      },
+      {
+        "seq": 250,
+        "turn": 14,
+        "phase": "PERFORMANCE",
+        "event": "ART",
+        "message": "P1's Airani Iofifteen uses Drawing is so fun! for 20 damage.",
+        "player": "P1",
+        "data": {
+          "attackerStageId": "H-11",
+          "targetStageId": "H-4",
+          "artIndex": 0,
+          "damage": 20
+        }
+      },
+      {
+        "seq": 251,
+        "turn": 14,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P1 ends Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 252,
+        "turn": 14,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P1 ends turn 14.",
+        "player": "P1"
+      },
+      {
+        "seq": 253,
+        "turn": 15,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P2 starts turn 15.",
+        "player": "P2",
+        "data": {
+          "playerTurn": 8
+        }
+      },
+      {
+        "seq": 254,
+        "turn": 15,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P2 draws 1 card(s) for Draw phase.",
+        "player": "P2",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 255,
+        "turn": 15,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P2 reveals the top Cheer.",
+        "player": "P2",
+        "data": {
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 256,
+        "turn": 15,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P2 sends Green Cheer to AZKi.",
+        "player": "P2",
+        "data": {
+          "targetStageId": "H-1",
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 257,
+        "turn": 15,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P2 collabs with AZKi and gains 1 holo Power.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-1"
+        }
+      },
+      {
+        "seq": 258,
+        "turn": 15,
+        "phase": "MAIN",
+        "event": "PLACE_HOLOMEM",
+        "message": "P2 places Amane Kanata in Back.",
+        "player": "P2",
+        "data": {
+          "cardId": "hSD01-014",
+          "stageId": "H-16"
+        }
+      },
+      {
+        "seq": 259,
+        "turn": 15,
+        "phase": "MAIN",
+        "event": "OSHI_SKILL",
+        "message": "P2 uses Replacement.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 260,
+        "turn": 15,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves reattach_cheer.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 261,
+        "turn": 15,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P2 Baton Passes to AZKi.",
+        "player": "P2",
+        "data": {
+          "oldCenter": "H-4",
+          "newCenter": "H-7"
+        }
+      },
+      {
+        "seq": 262,
+        "turn": 15,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P2 enters Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 263,
+        "turn": 15,
+        "phase": "PERFORMANCE",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves roll_odd_bonus_one_extra.",
+        "player": "P2",
+        "data": {
+          "effectId": "roll_odd_bonus_one_extra",
+          "source": "Art"
+        }
+      },
+      {
+        "seq": 264,
+        "turn": 15,
+        "phase": "PERFORMANCE",
+        "event": "DIE_ROLL",
+        "message": "P2 rolls 6.",
+        "player": "P2",
+        "data": {
+          "result": 6,
+          "sourceKind": "holomem_ability"
+        }
+      },
+      {
+        "seq": 265,
+        "turn": 15,
+        "phase": "PERFORMANCE",
+        "event": "ART",
+        "message": "P2's AZKi uses Destiny Song for 100 damage.",
+        "player": "P2",
+        "data": {
+          "attackerStageId": "H-1",
+          "targetStageId": "H-11",
+          "artIndex": 1,
+          "damage": 100
+        }
+      },
+      {
+        "seq": 266,
+        "turn": 15,
+        "phase": "PERFORMANCE",
+        "event": "DOWNED",
+        "message": "P1's Airani Iofifteen is downed and will take 1 Life damage.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-11",
+          "lifeDamage": 1
+        }
+      },
+      {
+        "seq": 267,
+        "turn": 15,
+        "phase": "PERFORMANCE",
+        "event": "LIFE_DAMAGE",
+        "message": "P1 loses 1 Life and sends the revealed Cheer to AZKi.",
+        "player": "P1",
+        "data": {
+          "remainingLife": 3
+        }
+      },
+      {
+        "seq": 268,
+        "turn": 15,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P2 ends Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 269,
+        "turn": 15,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P2 ends turn 15.",
+        "player": "P2"
+      },
+      {
+        "seq": 270,
+        "turn": 16,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P1 starts turn 16.",
+        "player": "P1",
+        "data": {
+          "playerTurn": 8
+        }
+      },
+      {
+        "seq": 271,
+        "turn": 16,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P1 draws 1 card(s) for Draw phase.",
+        "player": "P1",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 272,
+        "turn": 16,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P1 reveals the top Cheer.",
+        "player": "P1",
+        "data": {
+          "cardId": "hY01-001"
+        }
+      },
+      {
+        "seq": 273,
+        "turn": 16,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P1 sends White Cheer to AZKi.",
+        "player": "P1",
+        "data": {
+          "targetStageId": "H-5",
+          "cardId": "hY01-001"
+        }
+      },
+      {
+        "seq": 274,
+        "turn": 16,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P1 blooms AZKi to 2nd.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-011",
+          "targetStageId": "H-5"
+        }
+      },
+      {
+        "seq": 275,
+        "turn": 16,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P1 collabs with AZKi and gains 1 holo Power.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-13"
+        }
+      },
+      {
+        "seq": 276,
+        "turn": 16,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves roll_send_cheer_optional_move_back.",
+        "player": "P1",
+        "data": {
+          "effectId": "roll_send_cheer_optional_move_back",
+          "sourceStageId": "H-13"
+        }
+      },
+      {
+        "seq": 277,
+        "turn": 16,
+        "phase": "MAIN",
+        "event": "DIE_ROLL",
+        "message": "P1 rolls 6.",
+        "player": "P1",
+        "data": {
+          "result": 6,
+          "sourceKind": "holomem_ability"
+        }
+      },
+      {
+        "seq": 278,
+        "turn": 16,
+        "phase": "MAIN",
+        "event": "PLACE_HOLOMEM",
+        "message": "P1 places Amane Kanata in Back.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-014",
+          "stageId": "H-17"
+        }
+      },
+      {
+        "seq": 279,
+        "turn": 16,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P1 Baton Passes to AZKi.",
+        "player": "P1",
+        "data": {
+          "oldCenter": "H-10",
+          "newCenter": "H-5"
+        }
+      },
+      {
+        "seq": 280,
+        "turn": 16,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P1 enters Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 281,
+        "turn": 16,
+        "phase": "PERFORMANCE",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves send_cheer_if_name_on_stage.",
+        "player": "P1",
+        "data": {
+          "effectId": "send_cheer_if_name_on_stage",
+          "source": "Art"
+        }
+      },
+      {
+        "seq": 282,
+        "turn": 16,
+        "phase": "PERFORMANCE",
+        "event": "EFFECT_SEND_CHEER",
+        "message": "P1 sends White Cheer from the Cheer deck.",
+        "player": "P1",
+        "data": {
+          "targetStageId": "H-17"
+        }
+      },
+      {
+        "seq": 283,
+        "turn": 16,
+        "phase": "PERFORMANCE",
+        "event": "ART",
+        "message": "P1's AZKi uses SorAZ Gravity for 60 damage.",
+        "player": "P1",
+        "data": {
+          "attackerStageId": "H-5",
+          "targetStageId": "H-7",
+          "artIndex": 0,
+          "damage": 60
+        }
+      },
+      {
+        "seq": 284,
+        "turn": 16,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P1 ends Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 285,
+        "turn": 16,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P1 ends turn 16.",
+        "player": "P1"
+      },
+      {
+        "seq": 286,
+        "turn": 17,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P2 starts turn 17.",
+        "player": "P2",
+        "data": {
+          "playerTurn": 9
+        }
+      },
+      {
+        "seq": 287,
+        "turn": 17,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P2's Collab holomem returns to Back resting.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-1"
+        }
+      },
+      {
+        "seq": 288,
+        "turn": 17,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P2 draws 1 card(s) for Draw phase.",
+        "player": "P2",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 289,
+        "turn": 17,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P2 reveals the top Cheer.",
+        "player": "P2",
+        "data": {
+          "cardId": "hY01-001"
+        }
+      },
+      {
+        "seq": 290,
+        "turn": 17,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P2 sends White Cheer to AZKi.",
+        "player": "P2",
+        "data": {
+          "targetStageId": "H-7",
+          "cardId": "hY01-001"
+        }
+      },
+      {
+        "seq": 291,
+        "turn": 17,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P2 collabs with AZKi and gains 1 holo Power.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-4"
+        }
+      },
+      {
+        "seq": 292,
+        "turn": 17,
+        "phase": "MAIN",
+        "event": "OSHI_SKILL",
+        "message": "P2 uses Replacement.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 293,
+        "turn": 17,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves reattach_cheer.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 294,
+        "turn": 17,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P2 enters Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 295,
+        "turn": 17,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P2 ends Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 296,
+        "turn": 17,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P2 ends turn 17.",
+        "player": "P2"
+      },
+      {
+        "seq": 297,
+        "turn": 18,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P1 starts turn 18.",
+        "player": "P1",
+        "data": {
+          "playerTurn": 9
+        }
+      },
+      {
+        "seq": 298,
+        "turn": 18,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P1's Collab holomem returns to Back resting.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-13"
+        }
+      },
+      {
+        "seq": 299,
+        "turn": 18,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P1 draws 1 card(s) for Draw phase.",
+        "player": "P1",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 300,
+        "turn": 18,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P1 reveals the top Cheer.",
+        "player": "P1",
+        "data": {
+          "cardId": "hY01-001"
+        }
+      },
+      {
+        "seq": 301,
+        "turn": 18,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P1 sends White Cheer to Tokino Sora.",
+        "player": "P1",
+        "data": {
+          "targetStageId": "H-6",
+          "cardId": "hY01-001"
+        }
+      },
+      {
+        "seq": 302,
+        "turn": 18,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P1 collabs with Tokino Sora and gains 1 holo Power.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-10"
+        }
+      },
+      {
+        "seq": 303,
+        "turn": 18,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P1 Baton Passes to Tokino Sora.",
+        "player": "P1",
+        "data": {
+          "oldCenter": "H-5",
+          "newCenter": "H-6"
+        }
+      },
+      {
+        "seq": 304,
+        "turn": 18,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P1 plays Manager-chan.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-017",
+          "effectId": "mulligan_hand_draw"
+        }
+      },
+      {
+        "seq": 305,
+        "turn": 18,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves mulligan_hand_draw.",
+        "player": "P1",
+        "data": {
+          "effectId": "mulligan_hand_draw"
+        }
+      },
+      {
+        "seq": 306,
+        "turn": 18,
+        "phase": "MAIN",
+        "event": "DRAW",
+        "message": "P1 draws 5 card(s) for Manager-chan.",
+        "player": "P1",
+        "data": {
+          "requested": 5,
+          "drawn": 5
+        }
+      },
+      {
+        "seq": 307,
+        "turn": 18,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P1 enters Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 308,
+        "turn": 18,
+        "phase": "PERFORMANCE",
+        "event": "ART",
+        "message": "P1's Tokino Sora uses Your Heart… Will Turn from Cloudy to Sunny! for 50 damage.",
+        "player": "P1",
+        "data": {
+          "attackerStageId": "H-6",
+          "targetStageId": "H-7",
+          "artIndex": 1,
+          "damage": 50
+        }
+      },
+      {
+        "seq": 309,
+        "turn": 18,
+        "phase": "PERFORMANCE",
+        "event": "ART",
+        "message": "P1's Tokino Sora uses Your Heart… Will Turn from Cloudy to Sunny! for 50 damage.",
+        "player": "P1",
+        "data": {
+          "attackerStageId": "H-10",
+          "targetStageId": "H-7",
+          "artIndex": 1,
+          "damage": 50
+        }
+      },
+      {
+        "seq": 310,
+        "turn": 18,
+        "phase": "PERFORMANCE",
+        "event": "DOWNED",
+        "message": "P2's AZKi is downed and will take 1 Life damage.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-7",
+          "lifeDamage": 1
+        }
+      },
+      {
+        "seq": 311,
+        "turn": 18,
+        "phase": "PERFORMANCE",
+        "event": "LIFE_DAMAGE",
+        "message": "P2 loses 1 Life and sends the revealed Cheer to AZKi.",
+        "player": "P2",
+        "data": {
+          "remainingLife": 2
+        }
+      },
+      {
+        "seq": 312,
+        "turn": 18,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P1 ends Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 313,
+        "turn": 18,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P1 ends turn 18.",
+        "player": "P1"
+      },
+      {
+        "seq": 314,
+        "turn": 19,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P2 starts turn 19.",
+        "player": "P2",
+        "data": {
+          "playerTurn": 10
+        }
+      },
+      {
+        "seq": 315,
+        "turn": 19,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P2's Collab holomem returns to Back resting.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-4"
+        }
+      },
+      {
+        "seq": 316,
+        "turn": 19,
+        "phase": "RESET",
+        "event": "CENTER_PROMOTED",
+        "message": "P2 moves AZKi to Center.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-9",
+          "timing": "reset"
+        }
+      },
+      {
+        "seq": 317,
+        "turn": 19,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P2 draws 1 card(s) for Draw phase.",
+        "player": "P2",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 318,
+        "turn": 19,
+        "phase": "CHEER",
+        "event": "CHEER_EMPTY",
+        "message": "P2's Cheer deck is empty; no loss occurs.",
+        "player": "P2"
+      },
+      {
+        "seq": 319,
+        "turn": 19,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P2 collabs with Tokino Sora and gains 1 holo Power.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-15"
+        }
+      },
+      {
+        "seq": 320,
+        "turn": 19,
+        "phase": "MAIN",
+        "event": "PLACE_HOLOMEM",
+        "message": "P2 places Amane Kanata in Back.",
+        "player": "P2",
+        "data": {
+          "cardId": "hSD01-014",
+          "stageId": "H-18"
+        }
+      },
+      {
+        "seq": 321,
+        "turn": 19,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P2 plays Sub PC.",
+        "player": "P2",
+        "data": {
+          "cardId": "hSD01-018",
+          "effectId": "look_top_find_limited"
+        }
+      },
+      {
+        "seq": 322,
+        "turn": 19,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves look_top_find_limited.",
+        "player": "P2",
+        "data": {
+          "effectId": "look_top_find_limited"
+        }
+      },
+      {
+        "seq": 323,
+        "turn": 19,
+        "phase": "MAIN",
+        "event": "OSHI_SKILL",
+        "message": "P2 uses Replacement.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 324,
+        "turn": 19,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves reattach_cheer.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 325,
+        "turn": 19,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P2 plays Manager-chan.",
+        "player": "P2",
+        "data": {
+          "cardId": "hSD01-017",
+          "effectId": "mulligan_hand_draw"
+        }
+      },
+      {
+        "seq": 326,
+        "turn": 19,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves mulligan_hand_draw.",
+        "player": "P2",
+        "data": {
+          "effectId": "mulligan_hand_draw"
+        }
+      },
+      {
+        "seq": 327,
+        "turn": 19,
+        "phase": "MAIN",
+        "event": "DRAW",
+        "message": "P2 draws 5 card(s) for Manager-chan.",
+        "player": "P2",
+        "data": {
+          "requested": 5,
+          "drawn": 5
+        }
+      },
+      {
+        "seq": 328,
+        "turn": 19,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P2 blooms Tokino Sora to 1st.",
+        "player": "P2",
+        "data": {
+          "cardId": "hSD01-006",
+          "targetStageId": "H-15"
+        }
+      },
+      {
+        "seq": 329,
+        "turn": 19,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P2 enters Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 330,
+        "turn": 19,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P2 ends Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 331,
+        "turn": 19,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P2 ends turn 19.",
+        "player": "P2"
+      },
+      {
+        "seq": 332,
+        "turn": 20,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P1 starts turn 20.",
+        "player": "P1",
+        "data": {
+          "playerTurn": 10
+        }
+      },
+      {
+        "seq": 333,
+        "turn": 20,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P1's Collab holomem returns to Back resting.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-10"
+        }
+      },
+      {
+        "seq": 334,
+        "turn": 20,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P1 draws 1 card(s) for Draw phase.",
+        "player": "P1",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 335,
+        "turn": 20,
+        "phase": "CHEER",
+        "event": "CHEER_REVEALED",
+        "message": "P1 reveals the top Cheer.",
+        "player": "P1",
+        "data": {
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 336,
+        "turn": 20,
+        "phase": "CHEER",
+        "event": "CHEER_ATTACHED",
+        "message": "P1 sends Green Cheer to AZKi.",
+        "player": "P1",
+        "data": {
+          "targetStageId": "H-5",
+          "cardId": "hY02-001"
+        }
+      },
+      {
+        "seq": 337,
+        "turn": 20,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P1 collabs with AZKi and gains 1 holo Power.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-13"
+        }
+      },
+      {
+        "seq": 338,
+        "turn": 20,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves roll_send_cheer_optional_move_back.",
+        "player": "P1",
+        "data": {
+          "effectId": "roll_send_cheer_optional_move_back",
+          "sourceStageId": "H-13"
+        }
+      },
+      {
+        "seq": 339,
+        "turn": 20,
+        "phase": "MAIN",
+        "event": "DIE_REPLACED",
+        "message": "P1 uses A Map in My Left Hand and declares 1.",
+        "player": "P1",
+        "data": {
+          "result": 1
+        }
+      },
+      {
+        "seq": 340,
+        "turn": 20,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P1 plays Amazing PC.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-019",
+          "effectId": "archive_cheer_search_nonbuzz_bloom"
+        }
+      },
+      {
+        "seq": 341,
+        "turn": 20,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves archive_cheer_search_nonbuzz_bloom.",
+        "player": "P1",
+        "data": {
+          "effectId": "archive_cheer_search_nonbuzz_bloom"
+        }
+      },
+      {
+        "seq": 342,
+        "turn": 20,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P1 blooms SorAZ to 1st.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-013",
+          "targetStageId": "H-6"
+        }
+      },
+      {
+        "seq": 343,
+        "turn": 20,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P1 Baton Passes to AZKi.",
+        "player": "P1",
+        "data": {
+          "oldCenter": "H-6",
+          "newCenter": "H-5"
+        }
+      },
+      {
+        "seq": 344,
+        "turn": 20,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P1 enters Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 345,
+        "turn": 20,
+        "phase": "PERFORMANCE",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves send_cheer_if_name_on_stage.",
+        "player": "P1",
+        "data": {
+          "effectId": "send_cheer_if_name_on_stage",
+          "source": "Art"
+        }
+      },
+      {
+        "seq": 346,
+        "turn": 20,
+        "phase": "PERFORMANCE",
+        "event": "ART",
+        "message": "P1's AZKi uses SorAZ Gravity for 60 damage.",
+        "player": "P1",
+        "data": {
+          "attackerStageId": "H-5",
+          "targetStageId": "H-9",
+          "artIndex": 0,
+          "damage": 60
+        }
+      },
+      {
+        "seq": 347,
+        "turn": 20,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P1 ends Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 348,
+        "turn": 20,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P1 ends turn 20.",
+        "player": "P1"
+      },
+      {
+        "seq": 349,
+        "turn": 21,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P2 starts turn 21.",
+        "player": "P2",
+        "data": {
+          "playerTurn": 11
+        }
+      },
+      {
+        "seq": 350,
+        "turn": 21,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P2's Collab holomem returns to Back resting.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-15"
+        }
+      },
+      {
+        "seq": 351,
+        "turn": 21,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P2 draws 1 card(s) for Draw phase.",
+        "player": "P2",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 352,
+        "turn": 21,
+        "phase": "CHEER",
+        "event": "CHEER_EMPTY",
+        "message": "P2's Cheer deck is empty; no loss occurs.",
+        "player": "P2"
+      },
+      {
+        "seq": 353,
+        "turn": 21,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P2 blooms Tokino Sora to 1st.",
+        "player": "P2",
+        "data": {
+          "cardId": "hSD01-005",
+          "targetStageId": "H-15"
+        }
+      },
+      {
+        "seq": 354,
+        "turn": 21,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P2 collabs with Amane Kanata and gains 1 holo Power.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-16"
+        }
+      },
+      {
+        "seq": 355,
+        "turn": 21,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P2 plays First Gravity.",
+        "player": "P2",
+        "data": {
+          "cardId": "hSD01-021",
+          "effectId": "look_top_reveal_names"
+        }
+      },
+      {
+        "seq": 356,
+        "turn": 21,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves look_top_reveal_names.",
+        "player": "P2",
+        "data": {
+          "effectId": "look_top_reveal_names"
+        }
+      },
+      {
+        "seq": 357,
+        "turn": 21,
+        "phase": "MAIN",
+        "event": "OSHI_SKILL",
+        "message": "P2 uses Replacement.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 358,
+        "turn": 21,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves reattach_cheer.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 359,
+        "turn": 21,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P2 enters Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 360,
+        "turn": 21,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P2 ends Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 361,
+        "turn": 21,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P2 ends turn 21.",
+        "player": "P2"
+      },
+      {
+        "seq": 362,
+        "turn": 22,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P1 starts turn 22.",
+        "player": "P1",
+        "data": {
+          "playerTurn": 11
+        }
+      },
+      {
+        "seq": 363,
+        "turn": 22,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P1 draws 1 card(s) for Draw phase.",
+        "player": "P1",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 364,
+        "turn": 22,
+        "phase": "CHEER",
+        "event": "CHEER_EMPTY",
+        "message": "P1's Cheer deck is empty; no loss occurs.",
+        "player": "P1"
+      },
+      {
+        "seq": 365,
+        "turn": 22,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P1 collabs with AZKi and gains 1 holo Power.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-13"
+        }
+      },
+      {
+        "seq": 366,
+        "turn": 22,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves roll_send_cheer_optional_move_back.",
+        "player": "P1",
+        "data": {
+          "effectId": "roll_send_cheer_optional_move_back",
+          "sourceStageId": "H-13"
+        }
+      },
+      {
+        "seq": 367,
+        "turn": 22,
+        "phase": "MAIN",
+        "event": "DIE_ROLL",
+        "message": "P1 rolls 6.",
+        "player": "P1",
+        "data": {
+          "result": 6,
+          "sourceKind": "holomem_ability"
+        }
+      },
+      {
+        "seq": 368,
+        "turn": 22,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P1 plays Harusaki Nodoka.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-016",
+          "effectId": "draw_cards"
+        }
+      },
+      {
+        "seq": 369,
+        "turn": 22,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves draw_cards.",
+        "player": "P1",
+        "data": {
+          "effectId": "draw_cards"
+        }
+      },
+      {
+        "seq": 370,
+        "turn": 22,
+        "phase": "MAIN",
+        "event": "DRAW",
+        "message": "P1 draws 3 card(s) for support effect.",
+        "player": "P1",
+        "data": {
+          "requested": 3,
+          "drawn": 3
+        }
+      },
+      {
+        "seq": 371,
+        "turn": 22,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P1 Baton Passes to Tokino Sora.",
+        "player": "P1",
+        "data": {
+          "oldCenter": "H-5",
+          "newCenter": "H-10"
+        }
+      },
+      {
+        "seq": 372,
+        "turn": 22,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P1 enters Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 373,
+        "turn": 22,
+        "phase": "PERFORMANCE",
+        "event": "ART",
+        "message": "P1's Tokino Sora uses Your Heart… Will Turn from Cloudy to Sunny! for 50 damage.",
+        "player": "P1",
+        "data": {
+          "attackerStageId": "H-10",
+          "targetStageId": "H-9",
+          "artIndex": 1,
+          "damage": 50
+        }
+      },
+      {
+        "seq": 374,
+        "turn": 22,
+        "phase": "PERFORMANCE",
+        "event": "DOWNED",
+        "message": "P2's AZKi is downed and will take 1 Life damage.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-9",
+          "lifeDamage": 1
+        }
+      },
+      {
+        "seq": 375,
+        "turn": 22,
+        "phase": "PERFORMANCE",
+        "event": "LIFE_DAMAGE",
+        "message": "P2 loses 1 Life and sends the revealed Cheer to Amane Kanata.",
+        "player": "P2",
+        "data": {
+          "remainingLife": 1
+        }
+      },
+      {
+        "seq": 376,
+        "turn": 22,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P1 ends Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 377,
+        "turn": 22,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P1 ends turn 22.",
+        "player": "P1"
+      },
+      {
+        "seq": 378,
+        "turn": 23,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P2 starts turn 23.",
+        "player": "P2",
+        "data": {
+          "playerTurn": 12
+        }
+      },
+      {
+        "seq": 379,
+        "turn": 23,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P2's Collab holomem returns to Back resting.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-16"
+        }
+      },
+      {
+        "seq": 380,
+        "turn": 23,
+        "phase": "RESET",
+        "event": "CENTER_PROMOTED",
+        "message": "P2 moves AZKi to Center.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-1",
+          "timing": "reset"
+        }
+      },
+      {
+        "seq": 381,
+        "turn": 23,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P2 draws 1 card(s) for Draw phase.",
+        "player": "P2",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 382,
+        "turn": 23,
+        "phase": "CHEER",
+        "event": "CHEER_EMPTY",
+        "message": "P2's Cheer deck is empty; no loss occurs.",
+        "player": "P2"
+      },
+      {
+        "seq": 383,
+        "turn": 23,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P2 collabs with AZKi and gains 1 holo Power.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-4"
+        }
+      },
+      {
+        "seq": 384,
+        "turn": 23,
+        "phase": "MAIN",
+        "event": "OSHI_SKILL",
+        "message": "P2 uses Replacement.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 385,
+        "turn": 23,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves reattach_cheer.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 386,
+        "turn": 23,
+        "phase": "MAIN",
+        "event": "PLACE_HOLOMEM",
+        "message": "P2 places AZKi in Back.",
+        "player": "P2",
+        "data": {
+          "cardId": "hBP01-044",
+          "stageId": "H-19"
+        }
+      },
+      {
+        "seq": 387,
+        "turn": 23,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P2 Baton Passes to Amane Kanata.",
+        "player": "P2",
+        "data": {
+          "oldCenter": "H-1",
+          "newCenter": "H-18"
+        }
+      },
+      {
+        "seq": 388,
+        "turn": 23,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P2 enters Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 389,
+        "turn": 23,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P2 ends Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 390,
+        "turn": 23,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P2 ends turn 23.",
+        "player": "P2"
+      },
+      {
+        "seq": 391,
+        "turn": 24,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P1 starts turn 24.",
+        "player": "P1",
+        "data": {
+          "playerTurn": 12
+        }
+      },
+      {
+        "seq": 392,
+        "turn": 24,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P1's Collab holomem returns to Back resting.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-13"
+        }
+      },
+      {
+        "seq": 393,
+        "turn": 24,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P1 draws 1 card(s) for Draw phase.",
+        "player": "P1",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 394,
+        "turn": 24,
+        "phase": "CHEER",
+        "event": "CHEER_EMPTY",
+        "message": "P1's Cheer deck is empty; no loss occurs.",
+        "player": "P1"
+      },
+      {
+        "seq": 395,
+        "turn": 24,
+        "phase": "MAIN",
+        "event": "BLOOM",
+        "message": "P1 blooms AZKi to 1st.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-010",
+          "targetStageId": "H-6"
+        }
+      },
+      {
+        "seq": 396,
+        "turn": 24,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P1 collabs with AZKi and gains 1 holo Power.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-6"
+        }
+      },
+      {
+        "seq": 397,
+        "turn": 24,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P1 Baton Passes to Amane Kanata.",
+        "player": "P1",
+        "data": {
+          "oldCenter": "H-10",
+          "newCenter": "H-14"
+        }
+      },
+      {
+        "seq": 398,
+        "turn": 24,
+        "phase": "MAIN",
+        "event": "PLAY_SUPPORT",
+        "message": "P1 plays Manager-chan.",
+        "player": "P1",
+        "data": {
+          "cardId": "hSD01-017",
+          "effectId": "mulligan_hand_draw"
+        }
+      },
+      {
+        "seq": 399,
+        "turn": 24,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves mulligan_hand_draw.",
+        "player": "P1",
+        "data": {
+          "effectId": "mulligan_hand_draw"
+        }
+      },
+      {
+        "seq": 400,
+        "turn": 24,
+        "phase": "MAIN",
+        "event": "DRAW",
+        "message": "P1 draws 5 card(s) for Manager-chan.",
+        "player": "P1",
+        "data": {
+          "requested": 5,
+          "drawn": 5
+        }
+      },
+      {
+        "seq": 401,
+        "turn": 24,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P1 enters Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 402,
+        "turn": 24,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P1 ends Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 403,
+        "turn": 24,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P1 ends turn 24.",
+        "player": "P1"
+      },
+      {
+        "seq": 404,
+        "turn": 25,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P2 starts turn 25.",
+        "player": "P2",
+        "data": {
+          "playerTurn": 13
+        }
+      },
+      {
+        "seq": 405,
+        "turn": 25,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P2's Collab holomem returns to Back resting.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-4"
+        }
+      },
+      {
+        "seq": 406,
+        "turn": 25,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P2 draws 1 card(s) for Draw phase.",
+        "player": "P2",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 407,
+        "turn": 25,
+        "phase": "CHEER",
+        "event": "CHEER_EMPTY",
+        "message": "P2's Cheer deck is empty; no loss occurs.",
+        "player": "P2"
+      },
+      {
+        "seq": 408,
+        "turn": 25,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P2 collabs with AZKi and gains 1 holo Power.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-1"
+        }
+      },
+      {
+        "seq": 409,
+        "turn": 25,
+        "phase": "MAIN",
+        "event": "OSHI_SKILL",
+        "message": "P2 uses Replacement.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 410,
+        "turn": 25,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves reattach_cheer.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 411,
+        "turn": 25,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P2 Baton Passes to Tokino Sora.",
+        "player": "P2",
+        "data": {
+          "oldCenter": "H-18",
+          "newCenter": "H-15"
+        }
+      },
+      {
+        "seq": 412,
+        "turn": 25,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P2 enters Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 413,
+        "turn": 25,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P2 ends Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 414,
+        "turn": 25,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P2 ends turn 25.",
+        "player": "P2"
+      },
+      {
+        "seq": 415,
+        "turn": 26,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P1 starts turn 26.",
+        "player": "P1",
+        "data": {
+          "playerTurn": 13
+        }
+      },
+      {
+        "seq": 416,
+        "turn": 26,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P1's Collab holomem returns to Back resting.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-6"
+        }
+      },
+      {
+        "seq": 417,
+        "turn": 26,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P1 draws 1 card(s) for Draw phase.",
+        "player": "P1",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 418,
+        "turn": 26,
+        "phase": "CHEER",
+        "event": "CHEER_EMPTY",
+        "message": "P1's Cheer deck is empty; no loss occurs.",
+        "player": "P1"
+      },
+      {
+        "seq": 419,
+        "turn": 26,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P1 collabs with AZKi and gains 1 holo Power.",
+        "player": "P1",
+        "data": {
+          "stageId": "H-13"
+        }
+      },
+      {
+        "seq": 420,
+        "turn": 26,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P1 resolves roll_send_cheer_optional_move_back.",
+        "player": "P1",
+        "data": {
+          "effectId": "roll_send_cheer_optional_move_back",
+          "sourceStageId": "H-13"
+        }
+      },
+      {
+        "seq": 421,
+        "turn": 26,
+        "phase": "MAIN",
+        "event": "DIE_REPLACED",
+        "message": "P1 uses A Map in My Left Hand and declares 1.",
+        "player": "P1",
+        "data": {
+          "result": 1
+        }
+      },
+      {
+        "seq": 422,
+        "turn": 26,
+        "phase": "MAIN",
+        "event": "BATON_PASS",
+        "message": "P1 Baton Passes to Tokino Sora.",
+        "player": "P1",
+        "data": {
+          "oldCenter": "H-14",
+          "newCenter": "H-10"
+        }
+      },
+      {
+        "seq": 423,
+        "turn": 26,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P1 enters Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 424,
+        "turn": 26,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P1 ends Performance.",
+        "player": "P1"
+      },
+      {
+        "seq": 425,
+        "turn": 26,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P1 ends turn 26.",
+        "player": "P1"
+      },
+      {
+        "seq": 426,
+        "turn": 27,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P2 starts turn 27.",
+        "player": "P2",
+        "data": {
+          "playerTurn": 14
+        }
+      },
+      {
+        "seq": 427,
+        "turn": 27,
+        "phase": "RESET",
+        "event": "RESET_COLLAB",
+        "message": "P2's Collab holomem returns to Back resting.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-1"
+        }
+      },
+      {
+        "seq": 428,
+        "turn": 27,
+        "phase": "DRAW",
+        "event": "DRAW",
+        "message": "P2 draws 1 card(s) for Draw phase.",
+        "player": "P2",
+        "data": {
+          "requested": 1,
+          "drawn": 1
+        }
+      },
+      {
+        "seq": 429,
+        "turn": 27,
+        "phase": "CHEER",
+        "event": "CHEER_EMPTY",
+        "message": "P2's Cheer deck is empty; no loss occurs.",
+        "player": "P2"
+      },
+      {
+        "seq": 430,
+        "turn": 27,
+        "phase": "MAIN",
+        "event": "COLLAB",
+        "message": "P2 collabs with Amane Kanata and gains 1 holo Power.",
+        "player": "P2",
+        "data": {
+          "stageId": "H-18"
+        }
+      },
+      {
+        "seq": 431,
+        "turn": 27,
+        "phase": "MAIN",
+        "event": "OSHI_SKILL",
+        "message": "P2 uses Replacement.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 432,
+        "turn": 27,
+        "phase": "MAIN",
+        "event": "EFFECT_RESOLVE",
+        "message": "P2 resolves reattach_cheer.",
+        "player": "P2",
+        "data": {
+          "effectId": "reattach_cheer"
+        }
+      },
+      {
+        "seq": 433,
+        "turn": 27,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_START",
+        "message": "P2 enters Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 434,
+        "turn": 27,
+        "phase": "PERFORMANCE",
+        "event": "PERFORMANCE_END",
+        "message": "P2 ends Performance.",
+        "player": "P2"
+      },
+      {
+        "seq": 435,
+        "turn": 27,
+        "phase": "END",
+        "event": "TURN_END",
+        "message": "P2 ends turn 27.",
+        "player": "P2"
+      },
+      {
+        "seq": 436,
+        "turn": 28,
+        "phase": "RESET",
+        "event": "TURN_START",
+        "message": "P1 starts turn 28.",
+        "player": "P1",
+        "data": {
+          "playerTurn": 14
+        }
+      },
+      {
+        "seq": 437,
+        "turn": 28,
+        "phase": "GAME_OVER",
+        "event": "GAME_OVER",
+        "message": "P2 wins.",
+        "player": "P2",
+        "data": {
+          "lossReasons": {
+            "P1": [
+              "could not draw during the Draw phase"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "actionCount": 198
+}

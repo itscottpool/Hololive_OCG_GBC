@@ -1,0 +1,18 @@
+{
+  "name": "hololive-ocg-headless-engine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "src/index.ts",
+  "exports": "./src/index.ts",
+  "description": "Deterministic headless Hololive OCG engine for the hSD01 starter-deck vertical slice.",
+  "scripts": {
+    "test": "node --experimental-strip-types --test test/*.test.ts",
+    "simulate": "node --experimental-strip-types src/cli.ts",
+    "simulate:100": "node --experimental-strip-types src/cli.ts --games 100 --quiet",
+    "validate:data": "node --experimental-strip-types src/validate-data.ts"
+  },
+  "engines": {
+    "node": ">=22.18"
+  }
+}
