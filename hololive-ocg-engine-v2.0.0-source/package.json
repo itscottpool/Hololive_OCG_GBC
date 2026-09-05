@@ -1,0 +1,68 @@
+{
+  "name": "hololive-ocg-headless-engine",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "main": "desktop/main.cjs",
+  "exports": "./src/index.ts",
+  "description": "Playable local pixel battle client and deterministic Hololive OCG engine for the hSD01 starter-deck vertical slice.",
+  "scripts": {
+    "test": "node --experimental-strip-types --test test/*.test.ts",
+    "simulate": "node --experimental-strip-types src/cli.ts",
+    "simulate:100": "node --experimental-strip-types src/cli.ts --games 100 --quiet",
+    "validate:data": "node --experimental-strip-types src/validate-data.ts",
+    "play": "node --experimental-strip-types src/web-server.ts --open",
+    "play:no-open": "node --experimental-strip-types src/web-server.ts",
+    "desktop": "electron .",
+    "desktop:build:win": "electron-builder --win portable"
+  },
+  "engines": {
+    "node": ">=22.18"
+  },
+  "build": {
+    "appId": "dev.endlessnights.hololiveocg",
+    "productName": "Hololive OCG - Endless Nights",
+    "asar": true,
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "desktop/**/*",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "src",
+        "to": "game/src"
+      },
+      {
+        "from": "web",
+        "to": "game/web"
+      },
+      {
+        "from": "data",
+        "to": "game/data"
+      },
+      {
+        "from": "assets",
+        "to": "game/assets"
+      }
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "assets/ui/EndlessNights.ico",
+      "artifactName": "Hololive-OCG-Endless-Nights-${version}-Portable.${ext}"
+    }
+  },
+  "devDependencies": {
+    "electron": "44.2.0",
+    "electron-builder": "26.15.3"
+  }
+}
